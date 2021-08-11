@@ -1434,3 +1434,919 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.11-05.34.08:822][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.08.11-05.34.08:840][335]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
 [2021.08.11-05.34.08:859][336]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.08.11-05.34.34:182][595]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.11-05.34.34:189][595]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.11-05.34.34:189][595]PIE: New page: PIE session: Main_Carlo (12 Aug 2021, 05:34:34)
+[2021.08.11-05.34.34:223][595]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.08.11-05.34.34:239][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015498s)
+[2021.08.11-05.34.34:240][595]LogAIModule: Creating AISystem for world Main_Carlo
+[2021.08.11-05.34.34:241][595]LogPlayLevel: PIE: World Init took: (0.001598s)
+[2021.08.11-05.34.34:241][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_Carlo.Main_Carlo to /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo (0.017322s)
+[2021.08.11-05.34.34:265][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.08.11-05.34.34:265][595]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.08.11-05.34.34:265][595]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.11-05.34.34:265][595]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.11-05.34.34:265][595]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.11-05.34.34:265][595]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.11-05.34.34:265][595]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.11-05.34.34:265][595]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.11-05.34.34:265][595]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.11-05.34.34:265][595]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.11-05.34.34:266][595]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.11-05.34.34:266][595]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.11-05.34.34:269][595]LogAudioMixer: Warning: Did not find the channel type flags for audio device 'Headset (Surface Headphones Hands-Free AG Audio)'. Reverting to a default channel ordering.
+[2021.08.11-05.34.34:269][595]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.11-05.34.34:269][595]LogAudioMixer: Display: 1: FrontRight
+[2021.08.11-05.34.34:274][595]LogAudioMixer: Display: Using Audio Device Headset (Surface Headphones Hands-Free AG Audio)
+[2021.08.11-05.34.34:274][595]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.11-05.34.34:274][595]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.11-05.34.34:274][595]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.11-05.34.34:275][595]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.11-05.34.34:275][595]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.11-05.34.34:275][595]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.11-05.34.34:286][595]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.11-05.34.34:287][595]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.11-05.34.34:287][595]LogInit: FAudioDevice initialized.
+[2021.08.11-05.34.34:287][595]LogAudio: Display: Audio Device (ID: 13) registered with world 'Main_Carlo'.
+[2021.08.11-05.34.34:297][595]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.11-05.34.34:300][595]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo up for play (max tick rate 0) at 2021.08.11-17.34.34
+[2021.08.11-05.34.34:301][595]LogWorld: Bringing up level for play took: 0.003235
+[2021.08.11-05.34.34:301][595]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.08.11-05.34.34:304][595]PIE: Server logged in
+[2021.08.11-05.34.34:305][595]PIE: Play in editor total start time 0.117 seconds.
+[2021.08.11-05.34.46:322][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.11-05.34.46:322][ 28]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.08.11-05.34.46:322][ 28]LogWorld: UWorld::CleanupWorld for Main_Carlo, bSessionEnded=true, bCleanupResources=true
+[2021.08.11-05.34.46:323][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.11-05.34.46:334][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.11-05.34.46:339][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.11-05.34.46:358][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.11-05.34.46:358][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.11-05.34.46:359][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.11-05.34.46:376][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.08.11-05.34.46:399][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.08.11-05.35.04:351][809]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Carlo/Widgets/InteractPromptWidget.InteractPromptWidget
+[2021.08.11-05.35.21:968][656]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Carlo/Interactables/BP_BaseItem.BP_BaseItem
+[2021.08.11-05.35.24:500][829]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Carlo/Interactables/Base_Interactable_BP.Base_Interactable_BP
+[2021.08.11-05.35.36:016][970]BlueprintLog: New page: Compile BP_BaseItem
+[2021.08.11-05.35.36:108][970]LogUObjectHash: Compacting FUObjectHashTables data took   6.32ms
+[2021.08.11-05.35.36:792][ 25]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/BP_BaseItemF5665ED4436E5568643288AE79809BFF.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Carlo/Interactables/BP_BaseItem.uasset'
+[2021.08.11-05.35.36:805][ 25]AssetCheck: New page: Asset Save: BP_BaseItem
+[2021.08.11-05.35.36:805][ 25]LogContentValidation: Display: Validating Blueprint /Game/Carlo/Interactables/BP_BaseItem.BP_BaseItem
+[2021.08.11-05.35.38:411][192]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2021.08.11-05.35.38:449][192]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/Main_Carlo88B687AE4EA889E337043ABC28D5CB34.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Maps/Main_Carlo.umap'
+[2021.08.11-05.35.38:526][192]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/Main_Carlo_BuiltData7553716E49C05E5401AB9E89785BFC17.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Maps/Main_Carlo_BuiltData.uasset'
+[2021.08.11-05.35.38:542][192]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.11-05.35.38:542][192]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_Carlo_BuiltData.Main_Carlo_BuiltData
+[2021.08.11-05.35.38:542][192]LogContentValidation: Display: Validating World /Game/Maps/Main_Carlo.Main_Carlo
+[2021.08.11-05.35.39:702][314]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.11-05.35.39:710][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.11-05.35.39:710][314]PIE: New page: PIE session: Main_Carlo (12 Aug 2021, 05:35:39)
+[2021.08.11-05.35.39:737][314]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.08.11-05.35.39:753][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016577s)
+[2021.08.11-05.35.39:755][314]LogAIModule: Creating AISystem for world Main_Carlo
+[2021.08.11-05.35.39:755][314]LogPlayLevel: PIE: World Init took: (0.001607s)
+[2021.08.11-05.35.39:755][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_Carlo.Main_Carlo to /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo (0.018392s)
+[2021.08.11-05.35.39:797][314]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.08.11-05.35.39:799][314]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.08.11-05.35.39:799][314]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.11-05.35.39:799][314]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.11-05.35.39:799][314]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.11-05.35.39:799][314]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.11-05.35.39:799][314]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.11-05.35.39:799][314]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.11-05.35.39:799][314]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.11-05.35.39:799][314]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.11-05.35.39:800][314]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.11-05.35.39:800][314]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.11-05.35.39:802][314]LogAudioMixer: Warning: Did not find the channel type flags for audio device 'Headset (Surface Headphones Hands-Free AG Audio)'. Reverting to a default channel ordering.
+[2021.08.11-05.35.39:802][314]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.11-05.35.39:802][314]LogAudioMixer: Display: 1: FrontRight
+[2021.08.11-05.35.39:808][314]LogAudioMixer: Display: Using Audio Device Headset (Surface Headphones Hands-Free AG Audio)
+[2021.08.11-05.35.39:808][314]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.11-05.35.39:808][314]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.11-05.35.39:808][314]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.11-05.35.39:808][314]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.11-05.35.39:808][314]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.11-05.35.39:808][314]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.11-05.35.39:820][314]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.11-05.35.39:820][314]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.11-05.35.39:820][314]LogInit: FAudioDevice initialized.
+[2021.08.11-05.35.39:820][314]LogAudio: Display: Audio Device (ID: 14) registered with world 'Main_Carlo'.
+[2021.08.11-05.35.39:828][314]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.11-05.35.39:830][314]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo up for play (max tick rate 0) at 2021.08.11-17.35.39
+[2021.08.11-05.35.39:831][314]LogWorld: Bringing up level for play took: 0.002490
+[2021.08.11-05.35.39:831][314]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.08.11-05.35.39:833][314]PIE: Server logged in
+[2021.08.11-05.35.39:834][314]PIE: Play in editor total start time 0.126 seconds.
+[2021.08.11-05.35.45:843][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.11-05.35.45:843][ 27]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.08.11-05.35.45:843][ 27]LogWorld: UWorld::CleanupWorld for Main_Carlo, bSessionEnded=true, bCleanupResources=true
+[2021.08.11-05.35.45:844][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.11-05.35.45:849][ 27]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.11-05.35.45:902][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.11-05.35.45:935][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.11-05.35.45:936][ 27]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.11-05.35.45:937][ 27]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.11-05.35.45:955][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.08.11-05.35.45:997][ 28]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.08.11-05.36.03:549][753]BlueprintLog: New page: Compile BP_BaseItem
+[2021.08.11-05.36.03:608][753]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2021.08.11-05.36.04:574][861]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/BP_BaseItem8B6DE78344F76669D85F6BA191BD8B7A.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Carlo/Interactables/BP_BaseItem.uasset'
+[2021.08.11-05.36.04:588][861]AssetCheck: New page: Asset Save: BP_BaseItem
+[2021.08.11-05.36.04:588][861]LogContentValidation: Display: Validating Blueprint /Game/Carlo/Interactables/BP_BaseItem.BP_BaseItem
+[2021.08.11-05.36.07:915][215]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2021.08.11-05.36.09:600][215]LogSlate: Window 'Save Content' being destroyed
+[2021.08.11-05.36.09:655][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.08.11-05.36.09:693][215]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/Main_Carlo22440D1A4B2B3177C4876CA71D1D6BA3.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Maps/Main_Carlo.umap'
+[2021.08.11-05.36.09:701][215]LogFileHelpers: Saving map 'Main_Carlo' took 0.083
+[2021.08.11-05.36.09:714][215]AssetCheck: New page: Asset Save: Main_Carlo
+[2021.08.11-05.36.09:714][215]LogContentValidation: Display: Validating World /Game/Maps/Main_Carlo.Main_Carlo
+[2021.08.11-05.36.10:455][286]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.11-05.36.10:462][286]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.11-05.36.10:462][286]PIE: New page: PIE session: Main_Carlo (12 Aug 2021, 05:36:10)
+[2021.08.11-05.36.10:462][286]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.08.11-05.36.10:478][286]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015836s)
+[2021.08.11-05.36.10:479][286]LogAIModule: Creating AISystem for world Main_Carlo
+[2021.08.11-05.36.10:479][286]LogPlayLevel: PIE: World Init took: (0.001652s)
+[2021.08.11-05.36.10:479][286]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_Carlo.Main_Carlo to /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo (0.017673s)
+[2021.08.11-05.36.10:518][286]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.08.11-05.36.10:520][286]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.08.11-05.36.10:520][286]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.11-05.36.10:520][286]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.11-05.36.10:520][286]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.11-05.36.10:520][286]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.11-05.36.10:520][286]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.11-05.36.10:520][286]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.11-05.36.10:520][286]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.11-05.36.10:520][286]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.11-05.36.10:520][286]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.11-05.36.10:520][286]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.11-05.36.10:523][286]LogAudioMixer: Warning: Did not find the channel type flags for audio device 'Headset (Surface Headphones Hands-Free AG Audio)'. Reverting to a default channel ordering.
+[2021.08.11-05.36.10:523][286]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.11-05.36.10:523][286]LogAudioMixer: Display: 1: FrontRight
+[2021.08.11-05.36.10:528][286]LogAudioMixer: Display: Using Audio Device Headset (Surface Headphones Hands-Free AG Audio)
+[2021.08.11-05.36.10:529][286]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.11-05.36.10:529][286]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.11-05.36.10:529][286]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.11-05.36.10:529][286]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.11-05.36.10:529][286]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.11-05.36.10:529][286]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.11-05.36.10:541][286]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.11-05.36.10:541][286]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.11-05.36.10:541][286]LogInit: FAudioDevice initialized.
+[2021.08.11-05.36.10:541][286]LogAudio: Display: Audio Device (ID: 15) registered with world 'Main_Carlo'.
+[2021.08.11-05.36.10:551][286]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.11-05.36.10:554][286]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo up for play (max tick rate 0) at 2021.08.11-17.36.10
+[2021.08.11-05.36.10:554][286]LogWorld: Bringing up level for play took: 0.002769
+[2021.08.11-05.36.10:554][286]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.08.11-05.36.10:557][286]PIE: Server logged in
+[2021.08.11-05.36.10:558][286]PIE: Play in editor total start time 0.099 seconds.
+[2021.08.11-05.36.13:867][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.11-05.36.13:867][667]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.08.11-05.36.13:867][667]LogWorld: UWorld::CleanupWorld for Main_Carlo, bSessionEnded=true, bCleanupResources=true
+[2021.08.11-05.36.13:868][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.11-05.36.13:873][667]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.11-05.36.13:918][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.11-05.36.13:952][667]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.11-05.36.13:953][667]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.11-05.36.13:954][667]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.11-05.36.13:966][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.11-05.36.13:971][667]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.08.11-05.36.14:012][668]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.08.11-05.36.17:484][ 10]BlueprintLog: New page: Compile PlayerCharacter
+[2021.08.11-05.36.17:566][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2021.08.11-05.36.18:746][ 98]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.11-05.36.18:752][ 98]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.11-05.36.18:752][ 98]PIE: New page: PIE session: Main_Carlo (12 Aug 2021, 05:36:18)
+[2021.08.11-05.36.18:753][ 98]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.08.11-05.36.18:767][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014347s)
+[2021.08.11-05.36.18:768][ 98]LogAIModule: Creating AISystem for world Main_Carlo
+[2021.08.11-05.36.18:768][ 98]LogPlayLevel: PIE: World Init took: (0.000959s)
+[2021.08.11-05.36.18:768][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_Carlo.Main_Carlo to /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo (0.015434s)
+[2021.08.11-05.36.18:812][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2021.08.11-05.36.18:814][ 98]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.08.11-05.36.18:814][ 98]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.11-05.36.18:814][ 98]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.11-05.36.18:814][ 98]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.11-05.36.18:814][ 98]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.11-05.36.18:814][ 98]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.11-05.36.18:814][ 98]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.11-05.36.18:814][ 98]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.11-05.36.18:814][ 98]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.11-05.36.18:814][ 98]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.11-05.36.18:814][ 98]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.11-05.36.18:817][ 98]LogAudioMixer: Warning: Did not find the channel type flags for audio device 'Headset (Surface Headphones Hands-Free AG Audio)'. Reverting to a default channel ordering.
+[2021.08.11-05.36.18:817][ 98]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.11-05.36.18:817][ 98]LogAudioMixer: Display: 1: FrontRight
+[2021.08.11-05.36.18:822][ 98]LogAudioMixer: Display: Using Audio Device Headset (Surface Headphones Hands-Free AG Audio)
+[2021.08.11-05.36.18:822][ 98]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.11-05.36.18:822][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.11-05.36.18:822][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.11-05.36.18:823][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.11-05.36.18:823][ 98]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.11-05.36.18:823][ 98]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.11-05.36.18:835][ 98]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.11-05.36.18:835][ 98]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.11-05.36.18:835][ 98]LogInit: FAudioDevice initialized.
+[2021.08.11-05.36.18:835][ 98]LogAudio: Display: Audio Device (ID: 16) registered with world 'Main_Carlo'.
+[2021.08.11-05.36.18:839][ 98]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.11-05.36.18:842][ 98]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo up for play (max tick rate 0) at 2021.08.11-17.36.18
+[2021.08.11-05.36.18:843][ 98]LogWorld: Bringing up level for play took: 0.002543
+[2021.08.11-05.36.18:843][ 98]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.08.11-05.36.18:845][ 98]PIE: Server logged in
+[2021.08.11-05.36.18:846][ 98]PIE: Play in editor total start time 0.095 seconds.
+[2021.08.11-05.36.24:834][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.11-05.36.24:834][803]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.08.11-05.36.24:834][803]LogWorld: UWorld::CleanupWorld for Main_Carlo, bSessionEnded=true, bCleanupResources=true
+[2021.08.11-05.36.24:835][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.11-05.36.24:843][803]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.11-05.36.24:888][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.11-05.36.24:925][803]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.11-05.36.24:925][803]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.11-05.36.24:927][803]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.11-05.36.24:940][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.11-05.36.24:946][803]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.08.11-05.36.24:990][804]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.08.11-05.36.51:646][355]BlueprintLog: New page: Compile PlayerCharacter
+[2021.08.11-05.36.51:723][355]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.08.11-05.36.52:369][387]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/PlayerCharacter1C103D8D4E1FEA08C4DBF584DBBECFE9.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Carlo/FirstPersonBP/Blueprints/PlayerCharacter.uasset'
+[2021.08.11-05.36.52:386][387]AssetCheck: New page: Asset Save: PlayerCharacter
+[2021.08.11-05.36.52:386][387]LogContentValidation: Display: Validating Blueprint /Game/Carlo/FirstPersonBP/Blueprints/PlayerCharacter.PlayerCharacter
+[2021.08.11-05.36.54:542][606]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2021.08.11-05.36.54:578][606]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/Main_CarloC09962404FD31C59C3B0A6917324D576.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Maps/Main_Carlo.umap'
+[2021.08.11-05.36.54:651][606]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/Main_Carlo_BuiltDataAAE94C6F4EF93F54C92693B3118A7680.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Maps/Main_Carlo_BuiltData.uasset'
+[2021.08.11-05.36.54:667][606]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.11-05.36.54:667][606]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_Carlo_BuiltData.Main_Carlo_BuiltData
+[2021.08.11-05.36.54:667][606]LogContentValidation: Display: Validating World /Game/Maps/Main_Carlo.Main_Carlo
+[2021.08.11-05.36.55:247][660]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.11-05.36.55:254][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.11-05.36.55:254][660]PIE: New page: PIE session: Main_Carlo (12 Aug 2021, 05:36:55)
+[2021.08.11-05.36.55:301][660]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.08.11-05.36.55:320][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018610s)
+[2021.08.11-05.36.55:321][660]LogAIModule: Creating AISystem for world Main_Carlo
+[2021.08.11-05.36.55:321][660]LogPlayLevel: PIE: World Init took: (0.001276s)
+[2021.08.11-05.36.55:321][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_Carlo.Main_Carlo to /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo (0.020089s)
+[2021.08.11-05.36.55:360][660]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.08.11-05.36.55:361][660]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.08.11-05.36.55:361][660]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.11-05.36.55:361][660]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.11-05.36.55:361][660]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.11-05.36.55:361][660]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.11-05.36.55:361][660]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.11-05.36.55:361][660]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.11-05.36.55:361][660]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.11-05.36.55:361][660]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.11-05.36.55:362][660]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.11-05.36.55:362][660]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.11-05.36.55:366][660]LogAudioMixer: Warning: Did not find the channel type flags for audio device 'Headset (Surface Headphones Hands-Free AG Audio)'. Reverting to a default channel ordering.
+[2021.08.11-05.36.55:366][660]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.11-05.36.55:366][660]LogAudioMixer: Display: 1: FrontRight
+[2021.08.11-05.36.55:371][660]LogAudioMixer: Display: Using Audio Device Headset (Surface Headphones Hands-Free AG Audio)
+[2021.08.11-05.36.55:372][660]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.11-05.36.55:372][660]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.11-05.36.55:372][660]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.11-05.36.55:372][660]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.11-05.36.55:372][660]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.11-05.36.55:372][660]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.11-05.36.55:384][660]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.11-05.36.55:384][660]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.11-05.36.55:384][660]LogInit: FAudioDevice initialized.
+[2021.08.11-05.36.55:384][660]LogAudio: Display: Audio Device (ID: 17) registered with world 'Main_Carlo'.
+[2021.08.11-05.36.55:391][660]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.11-05.36.55:394][660]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo up for play (max tick rate 0) at 2021.08.11-17.36.55
+[2021.08.11-05.36.55:394][660]LogWorld: Bringing up level for play took: 0.002521
+[2021.08.11-05.36.55:394][660]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.08.11-05.36.55:397][660]PIE: Server logged in
+[2021.08.11-05.36.55:398][660]PIE: Play in editor total start time 0.146 seconds.
+[2021.08.11-05.37.01:588][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.11-05.37.01:588][386]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.08.11-05.37.01:588][386]LogWorld: UWorld::CleanupWorld for Main_Carlo, bSessionEnded=true, bCleanupResources=true
+[2021.08.11-05.37.01:589][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.11-05.37.01:598][386]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.11-05.37.01:649][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.11-05.37.01:684][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.11-05.37.01:685][386]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.11-05.37.01:686][386]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.11-05.37.01:704][386]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.08.11-05.37.01:745][387]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.08.11-05.37.02:557][478]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.11-05.37.02:562][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.11-05.37.02:562][478]PIE: New page: PIE session: Main_Carlo (12 Aug 2021, 05:37:02)
+[2021.08.11-05.37.02:592][478]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.08.11-05.37.02:612][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019365s)
+[2021.08.11-05.37.02:613][478]LogAIModule: Creating AISystem for world Main_Carlo
+[2021.08.11-05.37.02:613][478]LogPlayLevel: PIE: World Init took: (0.001298s)
+[2021.08.11-05.37.02:613][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_Carlo.Main_Carlo to /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo (0.020851s)
+[2021.08.11-05.37.02:653][478]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.08.11-05.37.02:655][478]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.08.11-05.37.02:655][478]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.11-05.37.02:655][478]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.11-05.37.02:655][478]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.11-05.37.02:655][478]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.11-05.37.02:655][478]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.11-05.37.02:655][478]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.11-05.37.02:655][478]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.11-05.37.02:655][478]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.11-05.37.02:655][478]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.11-05.37.02:655][478]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.11-05.37.02:658][478]LogAudioMixer: Warning: Did not find the channel type flags for audio device 'Headset (Surface Headphones Hands-Free AG Audio)'. Reverting to a default channel ordering.
+[2021.08.11-05.37.02:658][478]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.11-05.37.02:658][478]LogAudioMixer: Display: 1: FrontRight
+[2021.08.11-05.37.02:663][478]LogAudioMixer: Display: Using Audio Device Headset (Surface Headphones Hands-Free AG Audio)
+[2021.08.11-05.37.02:664][478]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.11-05.37.02:664][478]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.11-05.37.02:664][478]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.11-05.37.02:664][478]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.11-05.37.02:664][478]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.11-05.37.02:664][478]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.11-05.37.02:676][478]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.11-05.37.02:676][478]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.11-05.37.02:676][478]LogInit: FAudioDevice initialized.
+[2021.08.11-05.37.02:676][478]LogAudio: Display: Audio Device (ID: 18) registered with world 'Main_Carlo'.
+[2021.08.11-05.37.02:683][478]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.11-05.37.02:686][478]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo up for play (max tick rate 0) at 2021.08.11-17.37.02
+[2021.08.11-05.37.02:686][478]LogWorld: Bringing up level for play took: 0.002462
+[2021.08.11-05.37.02:686][478]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.08.11-05.37.02:689][478]PIE: Server logged in
+[2021.08.11-05.37.02:690][478]PIE: Play in editor total start time 0.129 seconds.
+[2021.08.11-05.37.06:320][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.11-05.37.06:320][908]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.08.11-05.37.06:320][908]LogWorld: UWorld::CleanupWorld for Main_Carlo, bSessionEnded=true, bCleanupResources=true
+[2021.08.11-05.37.06:321][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.11-05.37.06:330][908]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.11-05.37.06:376][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.11-05.37.06:410][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.11-05.37.06:411][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.11-05.37.06:412][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.11-05.37.06:430][908]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.08.11-05.37.06:472][909]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.08.11-05.38.00:140][685]BlueprintLog: New page: Compile PlayerCharacter
+[2021.08.11-05.38.00:227][685]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2021.08.11-05.38.00:985][742]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/PlayerCharacter2EF0B90449E0B8D3428199A77578B7AE.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Carlo/FirstPersonBP/Blueprints/PlayerCharacter.uasset'
+[2021.08.11-05.38.01:002][742]AssetCheck: New page: Asset Save: PlayerCharacter
+[2021.08.11-05.38.01:003][742]LogContentValidation: Display: Validating Blueprint /Game/Carlo/FirstPersonBP/Blueprints/PlayerCharacter.PlayerCharacter
+[2021.08.11-05.38.16:532][246]BlueprintLog: New page: Compile PlayerCharacter
+[2021.08.11-05.38.16:613][246]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2021.08.11-05.38.17:913][372]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/PlayerCharacterF1A21E1946AC9E49F0361A839DDD539F.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Carlo/FirstPersonBP/Blueprints/PlayerCharacter.uasset'
+[2021.08.11-05.38.17:929][372]AssetCheck: New page: Asset Save: PlayerCharacter
+[2021.08.11-05.38.17:929][372]LogContentValidation: Display: Validating Blueprint /Game/Carlo/FirstPersonBP/Blueprints/PlayerCharacter.PlayerCharacter
+[2021.08.11-05.38.20:108][606]LogRenderer: Reallocating scene render targets to support 1156x804 Format 10 NumSamples 1 (Frame:1).
+[2021.08.11-05.39.41:504][825]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/PlayerCharacter64A14F6042F8AFB43C44588C6960C588.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Carlo/FirstPersonBP/Blueprints/PlayerCharacter.uasset'
+[2021.08.11-05.39.41:522][825]AssetCheck: New page: Asset Save: PlayerCharacter
+[2021.08.11-05.39.41:522][825]LogContentValidation: Display: Validating Blueprint /Game/Carlo/FirstPersonBP/Blueprints/PlayerCharacter.PlayerCharacter
+[2021.08.11-05.39.43:881][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2021.08.11-05.39.45:953][ 53]LogSlate: Window 'Save Content' being destroyed
+[2021.08.11-05.39.46:005][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.08.11-05.39.46:039][ 53]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/Main_CarloAA47C9B34AC2F77B5D485585AE2265C6.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Maps/Main_Carlo.umap'
+[2021.08.11-05.39.46:045][ 53]LogFileHelpers: Saving map 'Main_Carlo' took 0.077
+[2021.08.11-05.39.46:060][ 53]AssetCheck: New page: Asset Save: Main_Carlo
+[2021.08.11-05.39.46:060][ 53]LogContentValidation: Display: Validating World /Game/Maps/Main_Carlo.Main_Carlo
+[2021.08.11-05.39.46:892][143]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.11-05.39.46:901][143]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.08.11-05.39.46:903][143]LogPlayLevel: [PlayLevel] Compiling PlayerCharacter before play...
+[2021.08.11-05.39.47:024][143]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2021.08.11-05.39.47:025][143]LogPlayLevel: PlayLevel: Blueprint regeneration took 124 ms (1 blueprints)
+[2021.08.11-05.39.47:025][143]PIE: New page: PIE session: Main_Carlo (12 Aug 2021, 05:39:47)
+[2021.08.11-05.39.47:025][143]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.08.11-05.39.47:041][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015216s)
+[2021.08.11-05.39.47:042][143]LogAIModule: Creating AISystem for world Main_Carlo
+[2021.08.11-05.39.47:042][143]LogPlayLevel: PIE: World Init took: (0.001339s)
+[2021.08.11-05.39.47:042][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_Carlo.Main_Carlo to /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo (0.016702s)
+[2021.08.11-05.39.47:081][143]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.08.11-05.39.47:081][143]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.08.11-05.39.47:082][143]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.11-05.39.47:082][143]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.11-05.39.47:082][143]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.11-05.39.47:082][143]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.11-05.39.47:082][143]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.11-05.39.47:082][143]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.11-05.39.47:082][143]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.11-05.39.47:082][143]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.11-05.39.47:082][143]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.11-05.39.47:082][143]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.11-05.39.47:085][143]LogAudioMixer: Warning: Did not find the channel type flags for audio device 'Headset (Surface Headphones Hands-Free AG Audio)'. Reverting to a default channel ordering.
+[2021.08.11-05.39.47:085][143]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.11-05.39.47:085][143]LogAudioMixer: Display: 1: FrontRight
+[2021.08.11-05.39.47:090][143]LogAudioMixer: Display: Using Audio Device Headset (Surface Headphones Hands-Free AG Audio)
+[2021.08.11-05.39.47:091][143]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.11-05.39.47:091][143]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.11-05.39.47:091][143]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.11-05.39.47:091][143]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.11-05.39.47:091][143]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.11-05.39.47:091][143]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.11-05.39.47:103][143]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.11-05.39.47:103][143]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.11-05.39.47:103][143]LogInit: FAudioDevice initialized.
+[2021.08.11-05.39.47:103][143]LogAudio: Display: Audio Device (ID: 19) registered with world 'Main_Carlo'.
+[2021.08.11-05.39.47:111][143]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.11-05.39.47:114][143]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo up for play (max tick rate 0) at 2021.08.11-17.39.47
+[2021.08.11-05.39.47:114][143]LogWorld: Bringing up level for play took: 0.002485
+[2021.08.11-05.39.47:115][143]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.08.11-05.39.47:117][143]PIE: Server logged in
+[2021.08.11-05.39.47:118][143]PIE: Play in editor total start time 0.219 seconds.
+[2021.08.11-05.40.13:642][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.11-05.40.13:642][309]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.08.11-05.40.13:642][309]LogWorld: UWorld::CleanupWorld for Main_Carlo, bSessionEnded=true, bCleanupResources=true
+[2021.08.11-05.40.13:643][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.11-05.40.13:648][309]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.11-05.40.13:694][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.11-05.40.13:727][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.11-05.40.13:728][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.11-05.40.13:729][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.11-05.40.13:747][309]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2021.08.11-05.40.13:790][310]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.08.11-05.40.21:371][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.08.11-05.40.21:408][ 78]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/Main_CarloB35FADC04CF7776F7D5208AF8DAD2BF9.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Maps/Main_Carlo.umap'
+[2021.08.11-05.40.21:483][ 78]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/Main_Carlo_BuiltDataAB246BAF4F5D32E7C987F2A40C42D2D3.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Maps/Main_Carlo_BuiltData.uasset'
+[2021.08.11-05.40.21:499][ 78]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.11-05.40.21:499][ 78]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_Carlo_BuiltData.Main_Carlo_BuiltData
+[2021.08.11-05.40.21:499][ 78]LogContentValidation: Display: Validating World /Game/Maps/Main_Carlo.Main_Carlo
+[2021.08.11-05.40.57:552][648]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/PlayerCharacterB8FA133E40AC93CD45012895A21DB282.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Carlo/FirstPersonBP/Blueprints/PlayerCharacter.uasset'
+[2021.08.11-05.40.57:569][648]AssetCheck: New page: Asset Save: PlayerCharacter
+[2021.08.11-05.40.57:569][648]LogContentValidation: Display: Validating Blueprint /Game/Carlo/FirstPersonBP/Blueprints/PlayerCharacter.PlayerCharacter
+[2021.08.11-05.41.24:545][618]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.11-05.41.24:551][618]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.08.11-05.41.24:557][618]LogPlayLevel: [PlayLevel] Compiling PlayerCharacter before play...
+[2021.08.11-05.41.24:678][618]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2021.08.11-05.41.24:680][618]LogPlayLevel: PlayLevel: Blueprint regeneration took 129 ms (1 blueprints)
+[2021.08.11-05.41.24:681][618]PIE: New page: PIE session: Main_Carlo (12 Aug 2021, 05:41:24)
+[2021.08.11-05.41.24:681][618]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.08.11-05.41.24:697][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016576s)
+[2021.08.11-05.41.24:699][618]LogAIModule: Creating AISystem for world Main_Carlo
+[2021.08.11-05.41.24:699][618]LogPlayLevel: PIE: World Init took: (0.001553s)
+[2021.08.11-05.41.24:699][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_Carlo.Main_Carlo to /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo (0.018308s)
+[2021.08.11-05.41.24:738][618]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.08.11-05.41.24:739][618]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.08.11-05.41.24:739][618]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.11-05.41.24:739][618]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.11-05.41.24:739][618]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.11-05.41.24:739][618]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.11-05.41.24:740][618]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.11-05.41.24:740][618]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.11-05.41.24:740][618]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.11-05.41.24:740][618]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.11-05.41.24:740][618]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.11-05.41.24:740][618]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.11-05.41.24:743][618]LogAudioMixer: Warning: Did not find the channel type flags for audio device 'Headset (Surface Headphones Hands-Free AG Audio)'. Reverting to a default channel ordering.
+[2021.08.11-05.41.24:743][618]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.11-05.41.24:743][618]LogAudioMixer: Display: 1: FrontRight
+[2021.08.11-05.41.24:748][618]LogAudioMixer: Display: Using Audio Device Headset (Surface Headphones Hands-Free AG Audio)
+[2021.08.11-05.41.24:748][618]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.11-05.41.24:748][618]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.11-05.41.24:748][618]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.11-05.41.24:749][618]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.11-05.41.24:749][618]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.11-05.41.24:749][618]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.11-05.41.24:760][618]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.11-05.41.24:760][618]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.11-05.41.24:760][618]LogInit: FAudioDevice initialized.
+[2021.08.11-05.41.24:760][618]LogAudio: Display: Audio Device (ID: 20) registered with world 'Main_Carlo'.
+[2021.08.11-05.41.24:766][618]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.11-05.41.24:769][618]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo up for play (max tick rate 0) at 2021.08.11-17.41.24
+[2021.08.11-05.41.24:770][618]LogWorld: Bringing up level for play took: 0.002854
+[2021.08.11-05.41.24:770][618]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.08.11-05.41.24:773][618]PIE: Server logged in
+[2021.08.11-05.41.24:774][618]PIE: Play in editor total start time 0.224 seconds.
+[2021.08.11-05.41.28:342][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.11-05.41.28:342][ 32]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.08.11-05.41.28:342][ 32]LogWorld: UWorld::CleanupWorld for Main_Carlo, bSessionEnded=true, bCleanupResources=true
+[2021.08.11-05.41.28:343][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.11-05.41.28:350][ 32]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.11-05.41.28:396][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.11-05.41.28:429][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.11-05.41.28:430][ 32]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.11-05.41.28:431][ 32]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.11-05.41.28:449][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.08.11-05.41.28:491][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.08.11-05.42.12:735][111]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/PlayerCharacter106CBFE34BE37DD0B33B8DAEB9C3EC83.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Carlo/FirstPersonBP/Blueprints/PlayerCharacter.uasset'
+[2021.08.11-05.42.12:752][111]AssetCheck: New page: Asset Save: PlayerCharacter
+[2021.08.11-05.42.12:752][111]LogContentValidation: Display: Validating Blueprint /Game/Carlo/FirstPersonBP/Blueprints/PlayerCharacter.PlayerCharacter
+[2021.08.11-05.42.15:554][417]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.08.11-05.42.15:591][417]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/Main_CarloDD01B60E4C6C98F2D2DB1E8300B3AB5C.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Maps/Main_Carlo.umap'
+[2021.08.11-05.42.15:663][417]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/Main_Carlo_BuiltDataD612556C4CC6A6AE0EA970B571166DBA.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Maps/Main_Carlo_BuiltData.uasset'
+[2021.08.11-05.42.15:681][417]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.11-05.42.15:681][417]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_Carlo_BuiltData.Main_Carlo_BuiltData
+[2021.08.11-05.42.15:681][417]LogContentValidation: Display: Validating World /Game/Maps/Main_Carlo.Main_Carlo
+[2021.08.11-05.42.16:650][521]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.11-05.42.16:656][521]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.08.11-05.42.16:659][521]LogPlayLevel: [PlayLevel] Compiling PlayerCharacter before play...
+[2021.08.11-05.42.16:774][521]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2021.08.11-05.42.16:775][521]LogPlayLevel: PlayLevel: Blueprint regeneration took 118 ms (1 blueprints)
+[2021.08.11-05.42.16:775][521]PIE: New page: PIE session: Main_Carlo (12 Aug 2021, 05:42:16)
+[2021.08.11-05.42.16:775][521]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.08.11-05.42.16:791][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015783s)
+[2021.08.11-05.42.16:792][521]LogAIModule: Creating AISystem for world Main_Carlo
+[2021.08.11-05.42.16:793][521]LogPlayLevel: PIE: World Init took: (0.001477s)
+[2021.08.11-05.42.16:793][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_Carlo.Main_Carlo to /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo (0.017430s)
+[2021.08.11-05.42.16:833][521]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.08.11-05.42.16:834][521]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.08.11-05.42.16:834][521]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.11-05.42.16:834][521]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.11-05.42.16:834][521]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.11-05.42.16:834][521]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.11-05.42.16:834][521]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.11-05.42.16:834][521]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.11-05.42.16:834][521]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.11-05.42.16:835][521]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.11-05.42.16:835][521]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.11-05.42.16:835][521]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.11-05.42.16:838][521]LogAudioMixer: Warning: Did not find the channel type flags for audio device 'Headset (Surface Headphones Hands-Free AG Audio)'. Reverting to a default channel ordering.
+[2021.08.11-05.42.16:838][521]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.11-05.42.16:838][521]LogAudioMixer: Display: 1: FrontRight
+[2021.08.11-05.42.16:844][521]LogAudioMixer: Display: Using Audio Device Headset (Surface Headphones Hands-Free AG Audio)
+[2021.08.11-05.42.16:844][521]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.11-05.42.16:844][521]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.11-05.42.16:844][521]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.11-05.42.16:845][521]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.11-05.42.16:845][521]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.11-05.42.16:845][521]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.11-05.42.16:857][521]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.11-05.42.16:857][521]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.11-05.42.16:857][521]LogInit: FAudioDevice initialized.
+[2021.08.11-05.42.16:857][521]LogAudio: Display: Audio Device (ID: 21) registered with world 'Main_Carlo'.
+[2021.08.11-05.42.16:863][521]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.11-05.42.16:866][521]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo up for play (max tick rate 0) at 2021.08.11-17.42.16
+[2021.08.11-05.42.16:866][521]LogWorld: Bringing up level for play took: 0.002502
+[2021.08.11-05.42.16:866][521]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.08.11-05.42.16:869][521]PIE: Server logged in
+[2021.08.11-05.42.16:870][521]PIE: Play in editor total start time 0.216 seconds.
+[2021.08.11-05.42.38:830][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.11-05.42.38:830][143]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.08.11-05.42.38:830][143]LogWorld: UWorld::CleanupWorld for Main_Carlo, bSessionEnded=true, bCleanupResources=true
+[2021.08.11-05.42.38:831][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.11-05.42.38:840][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.11-05.42.38:885][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.11-05.42.38:920][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.11-05.42.38:920][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.11-05.42.38:922][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.11-05.42.38:940][143]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.08.11-05.42.38:986][144]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.08.11-05.42.53:786][586]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.08.11-05.42.55:010][586]LogSlate: Window 'Save Content' being destroyed
+[2021.08.11-05.42.55:073][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.08.11-05.42.55:107][586]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/Main_CarloBF8059524FB32C924B49C99AC7F6ECD4.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Maps/Main_Carlo.umap'
+[2021.08.11-05.42.55:113][586]LogFileHelpers: Saving map 'Main_Carlo' took 0.076
+[2021.08.11-05.42.55:126][586]AssetCheck: New page: Asset Save: Main_Carlo
+[2021.08.11-05.42.55:126][586]LogContentValidation: Display: Validating World /Game/Maps/Main_Carlo.Main_Carlo
+[2021.08.11-05.42.55:944][670]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.11-05.42.55:950][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.11-05.42.55:950][670]PIE: New page: PIE session: Main_Carlo (12 Aug 2021, 05:42:55)
+[2021.08.11-05.42.55:982][670]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.08.11-05.42.56:003][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020592s)
+[2021.08.11-05.42.56:004][670]LogAIModule: Creating AISystem for world Main_Carlo
+[2021.08.11-05.42.56:005][670]LogPlayLevel: PIE: World Init took: (0.001632s)
+[2021.08.11-05.42.56:005][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_Carlo.Main_Carlo to /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo (0.022425s)
+[2021.08.11-05.42.56:046][670]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.08.11-05.42.56:048][670]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.08.11-05.42.56:048][670]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.11-05.42.56:048][670]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.11-05.42.56:048][670]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.11-05.42.56:048][670]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.11-05.42.56:048][670]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.11-05.42.56:048][670]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.11-05.42.56:048][670]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.11-05.42.56:048][670]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.11-05.42.56:048][670]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.11-05.42.56:048][670]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.11-05.42.56:052][670]LogAudioMixer: Warning: Did not find the channel type flags for audio device 'Headset (Surface Headphones Hands-Free AG Audio)'. Reverting to a default channel ordering.
+[2021.08.11-05.42.56:052][670]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.11-05.42.56:052][670]LogAudioMixer: Display: 1: FrontRight
+[2021.08.11-05.42.56:057][670]LogAudioMixer: Display: Using Audio Device Headset (Surface Headphones Hands-Free AG Audio)
+[2021.08.11-05.42.56:058][670]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.11-05.42.56:058][670]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.11-05.42.56:058][670]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.11-05.42.56:058][670]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.11-05.42.56:058][670]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.11-05.42.56:058][670]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.11-05.42.56:071][670]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.11-05.42.56:071][670]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.11-05.42.56:071][670]LogInit: FAudioDevice initialized.
+[2021.08.11-05.42.56:071][670]LogAudio: Display: Audio Device (ID: 22) registered with world 'Main_Carlo'.
+[2021.08.11-05.42.56:080][670]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.11-05.42.56:083][670]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo up for play (max tick rate 0) at 2021.08.11-17.42.56
+[2021.08.11-05.42.56:083][670]LogWorld: Bringing up level for play took: 0.002788
+[2021.08.11-05.42.56:083][670]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.08.11-05.42.56:086][670]PIE: Server logged in
+[2021.08.11-05.42.56:087][670]PIE: Play in editor total start time 0.138 seconds.
+[2021.08.11-05.43.06:944][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.11-05.43.06:944][963]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.08.11-05.43.06:944][963]LogWorld: UWorld::CleanupWorld for Main_Carlo, bSessionEnded=true, bCleanupResources=true
+[2021.08.11-05.43.06:945][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.11-05.43.06:954][963]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.11-05.43.07:006][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.11-05.43.07:041][963]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.11-05.43.07:041][963]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.11-05.43.07:042][963]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.11-05.43.07:055][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.11-05.43.07:061][963]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.08.11-05.43.07:104][964]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.08.11-05.43.32:490][546]LogEditorTransaction: Undo Edit Inner Cone Angle
+[2021.08.11-05.43.43:128][625]LogEditorTransaction: Undo Edit Inner Cone Angle
+[2021.08.11-05.44.00:270][556]LogEditorTransaction: Undo Modify Component(s)
+[2021.08.11-05.44.00:736][570]LogEditorTransaction: Undo Modify Component(s)
+[2021.08.11-05.44.08:912][197]LogEditorTransaction: Undo Edit Source Radius
+[2021.08.11-05.44.15:331][577]LogEditorTransaction: Undo Edit Soft Source Radius
+[2021.08.11-05.44.49:047][ 38]LogEditorTransaction: Undo Edit Inner Cone Angle
+[2021.08.11-05.44.49:519][ 49]LogEditorTransaction: Undo Edit Attenuation Radius
+[2021.08.11-05.44.50:335][122]LogEditorTransaction: Undo Reset to Default
+[2021.08.11-05.45.13:510][537]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/PlayerCharacterB219563A4881B55825A46EBA8238602A.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Carlo/FirstPersonBP/Blueprints/PlayerCharacter.uasset'
+[2021.08.11-05.45.13:531][537]AssetCheck: New page: Asset Save: PlayerCharacter
+[2021.08.11-05.45.13:531][537]LogContentValidation: Display: Validating Blueprint /Game/Carlo/FirstPersonBP/Blueprints/PlayerCharacter.PlayerCharacter
+[2021.08.11-05.45.14:634][661]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.11-05.45.14:640][661]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.08.11-05.45.14:645][661]LogPlayLevel: [PlayLevel] Compiling PlayerCharacter before play...
+[2021.08.11-05.45.14:982][661]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2021.08.11-05.45.14:984][661]LogPlayLevel: PlayLevel: Blueprint regeneration took 344 ms (1 blueprints)
+[2021.08.11-05.45.14:984][661]PIE: New page: PIE session: Main_Carlo (12 Aug 2021, 05:45:14)
+[2021.08.11-05.45.14:984][661]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.08.11-05.45.15:003][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018553s)
+[2021.08.11-05.45.15:004][661]LogAIModule: Creating AISystem for world Main_Carlo
+[2021.08.11-05.45.15:004][661]LogPlayLevel: PIE: World Init took: (0.001342s)
+[2021.08.11-05.45.15:004][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_Carlo.Main_Carlo to /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo (0.020083s)
+[2021.08.11-05.45.15:044][661]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.08.11-05.45.15:045][661]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2021.08.11-05.45.15:045][661]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.11-05.45.15:045][661]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.11-05.45.15:045][661]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.11-05.45.15:045][661]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.11-05.45.15:045][661]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.11-05.45.15:045][661]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.11-05.45.15:045][661]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.11-05.45.15:045][661]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.11-05.45.15:046][661]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.11-05.45.15:046][661]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.11-05.45.15:049][661]LogAudioMixer: Warning: Did not find the channel type flags for audio device 'Headset (Surface Headphones Hands-Free AG Audio)'. Reverting to a default channel ordering.
+[2021.08.11-05.45.15:049][661]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.11-05.45.15:049][661]LogAudioMixer: Display: 1: FrontRight
+[2021.08.11-05.45.15:054][661]LogAudioMixer: Display: Using Audio Device Headset (Surface Headphones Hands-Free AG Audio)
+[2021.08.11-05.45.15:055][661]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.11-05.45.15:055][661]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.11-05.45.15:055][661]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.11-05.45.15:055][661]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.11-05.45.15:055][661]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.11-05.45.15:055][661]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.11-05.45.15:067][661]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.11-05.45.15:067][661]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.11-05.45.15:067][661]LogInit: FAudioDevice initialized.
+[2021.08.11-05.45.15:067][661]LogAudio: Display: Audio Device (ID: 23) registered with world 'Main_Carlo'.
+[2021.08.11-05.45.15:073][661]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.11-05.45.15:076][661]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo up for play (max tick rate 0) at 2021.08.11-17.45.15
+[2021.08.11-05.45.15:076][661]LogWorld: Bringing up level for play took: 0.002503
+[2021.08.11-05.45.15:077][661]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.08.11-05.45.15:079][661]PIE: Server logged in
+[2021.08.11-05.45.15:080][661]PIE: Play in editor total start time 0.441 seconds.
+[2021.08.11-05.45.18:885][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.11-05.45.18:885][104]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.08.11-05.45.18:885][104]LogWorld: UWorld::CleanupWorld for Main_Carlo, bSessionEnded=true, bCleanupResources=true
+[2021.08.11-05.45.18:885][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.11-05.45.18:892][104]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.11-05.45.18:939][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.11-05.45.18:975][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.11-05.45.18:976][104]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.11-05.45.18:977][104]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.11-05.45.18:995][104]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.08.11-05.45.19:038][105]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.08.11-05.45.26:157][781]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/PlayerCharacter5CC97E574B9B960675CC67B82EA72972.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Carlo/FirstPersonBP/Blueprints/PlayerCharacter.uasset'
+[2021.08.11-05.45.26:174][781]AssetCheck: New page: Asset Save: PlayerCharacter
+[2021.08.11-05.45.26:174][781]LogContentValidation: Display: Validating Blueprint /Game/Carlo/FirstPersonBP/Blueprints/PlayerCharacter.PlayerCharacter
+[2021.08.11-05.45.27:467][917]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.11-05.45.27:475][917]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.08.11-05.45.27:481][917]LogPlayLevel: [PlayLevel] Compiling PlayerCharacter before play...
+[2021.08.11-05.45.27:594][917]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.08.11-05.45.27:596][917]LogPlayLevel: PlayLevel: Blueprint regeneration took 120 ms (1 blueprints)
+[2021.08.11-05.45.27:596][917]PIE: New page: PIE session: Main_Carlo (12 Aug 2021, 05:45:27)
+[2021.08.11-05.45.27:629][917]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.08.11-05.45.27:650][917]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020258s)
+[2021.08.11-05.45.27:651][917]LogAIModule: Creating AISystem for world Main_Carlo
+[2021.08.11-05.45.27:651][917]LogPlayLevel: PIE: World Init took: (0.001587s)
+[2021.08.11-05.45.27:651][917]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_Carlo.Main_Carlo to /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo (0.022073s)
+[2021.08.11-05.45.27:691][917]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.08.11-05.45.27:692][917]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2021.08.11-05.45.27:692][917]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.11-05.45.27:692][917]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.11-05.45.27:692][917]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.11-05.45.27:692][917]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.11-05.45.27:692][917]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.11-05.45.27:692][917]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.11-05.45.27:692][917]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.11-05.45.27:693][917]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.11-05.45.27:693][917]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.11-05.45.27:693][917]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.11-05.45.27:696][917]LogAudioMixer: Warning: Did not find the channel type flags for audio device 'Headset (Surface Headphones Hands-Free AG Audio)'. Reverting to a default channel ordering.
+[2021.08.11-05.45.27:696][917]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.11-05.45.27:696][917]LogAudioMixer: Display: 1: FrontRight
+[2021.08.11-05.45.27:701][917]LogAudioMixer: Display: Using Audio Device Headset (Surface Headphones Hands-Free AG Audio)
+[2021.08.11-05.45.27:701][917]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.11-05.45.27:701][917]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.11-05.45.27:701][917]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.11-05.45.27:701][917]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.11-05.45.27:701][917]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.11-05.45.27:701][917]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.11-05.45.27:713][917]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.11-05.45.27:713][917]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.11-05.45.27:713][917]LogInit: FAudioDevice initialized.
+[2021.08.11-05.45.27:713][917]LogAudio: Display: Audio Device (ID: 24) registered with world 'Main_Carlo'.
+[2021.08.11-05.45.27:720][917]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.11-05.45.27:723][917]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo up for play (max tick rate 0) at 2021.08.11-17.45.27
+[2021.08.11-05.45.27:723][917]LogWorld: Bringing up level for play took: 0.002478
+[2021.08.11-05.45.27:723][917]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2021.08.11-05.45.27:726][917]PIE: Server logged in
+[2021.08.11-05.45.27:727][917]PIE: Play in editor total start time 0.254 seconds.
+[2021.08.11-05.45.42:542][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.11-05.45.42:543][678]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.08.11-05.45.42:543][678]LogWorld: UWorld::CleanupWorld for Main_Carlo, bSessionEnded=true, bCleanupResources=true
+[2021.08.11-05.45.42:543][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.11-05.45.42:552][678]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.11-05.45.42:598][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.11-05.45.42:632][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.11-05.45.42:632][678]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.11-05.45.42:633][678]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.11-05.45.42:651][678]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2021.08.11-05.45.42:692][679]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.08.11-05.46.12:569][567]LogEditorTransaction: Undo Edit Intensity
+[2021.08.11-05.46.24:424][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.08.11-05.46.25:738][778]LogSlate: Window 'Save Content' being destroyed
+[2021.08.11-05.46.25:791][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.08.11-05.46.25:835][778]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/Main_CarloBB18F67B4D058D7E11B16BBF92EA15B3.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Maps/Main_Carlo.umap'
+[2021.08.11-05.46.25:841][778]LogFileHelpers: Saving map 'Main_Carlo' took 0.087
+[2021.08.11-05.46.25:944][778]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/PlayerCharacter426359A8467D6BB2DA08FA8AA8844F22.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Carlo/FirstPersonBP/Blueprints/PlayerCharacter.uasset'
+[2021.08.11-05.46.25:959][778]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.11-05.46.25:959][778]LogContentValidation: Display: Validating Blueprint /Game/Carlo/FirstPersonBP/Blueprints/PlayerCharacter.PlayerCharacter
+[2021.08.11-05.46.25:959][778]LogContentValidation: Display: Validating World /Game/Maps/Main_Carlo.Main_Carlo
+[2021.08.11-05.46.26:693][851]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.11-05.46.26:701][851]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.08.11-05.46.26:706][851]LogPlayLevel: [PlayLevel] Compiling PlayerCharacter before play...
+[2021.08.11-05.46.26:805][851]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2021.08.11-05.46.26:806][851]LogPlayLevel: PlayLevel: Blueprint regeneration took 104 ms (1 blueprints)
+[2021.08.11-05.46.26:806][851]PIE: New page: PIE session: Main_Carlo (12 Aug 2021, 05:46:26)
+[2021.08.11-05.46.26:842][851]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.08.11-05.46.26:858][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016332s)
+[2021.08.11-05.46.26:860][851]LogAIModule: Creating AISystem for world Main_Carlo
+[2021.08.11-05.46.26:860][851]LogPlayLevel: PIE: World Init took: (0.001622s)
+[2021.08.11-05.46.26:860][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_Carlo.Main_Carlo to /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo (0.018178s)
+[2021.08.11-05.46.26:900][851]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2021.08.11-05.46.26:901][851]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2021.08.11-05.46.26:901][851]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.11-05.46.26:901][851]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.11-05.46.26:901][851]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.11-05.46.26:901][851]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.11-05.46.26:901][851]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.11-05.46.26:901][851]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.11-05.46.26:901][851]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.11-05.46.26:901][851]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.11-05.46.26:902][851]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.11-05.46.26:902][851]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.11-05.46.26:905][851]LogAudioMixer: Warning: Did not find the channel type flags for audio device 'Headset (Surface Headphones Hands-Free AG Audio)'. Reverting to a default channel ordering.
+[2021.08.11-05.46.26:905][851]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.11-05.46.26:905][851]LogAudioMixer: Display: 1: FrontRight
+[2021.08.11-05.46.26:911][851]LogAudioMixer: Display: Using Audio Device Headset (Surface Headphones Hands-Free AG Audio)
+[2021.08.11-05.46.26:911][851]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.11-05.46.26:911][851]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.11-05.46.26:912][851]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.11-05.46.26:912][851]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.11-05.46.26:912][851]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.11-05.46.26:912][851]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.11-05.46.26:924][851]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.11-05.46.26:924][851]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.11-05.46.26:924][851]LogInit: FAudioDevice initialized.
+[2021.08.11-05.46.26:924][851]LogAudio: Display: Audio Device (ID: 25) registered with world 'Main_Carlo'.
+[2021.08.11-05.46.26:933][851]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.11-05.46.26:936][851]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo up for play (max tick rate 0) at 2021.08.11-17.46.26
+[2021.08.11-05.46.26:936][851]LogWorld: Bringing up level for play took: 0.002695
+[2021.08.11-05.46.26:937][851]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.08.11-05.46.26:940][851]PIE: Server logged in
+[2021.08.11-05.46.26:940][851]PIE: Play in editor total start time 0.241 seconds.
+[2021.08.11-05.46.55:302][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.11-05.46.55:302][241]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.08.11-05.46.55:302][241]LogWorld: UWorld::CleanupWorld for Main_Carlo, bSessionEnded=true, bCleanupResources=true
+[2021.08.11-05.46.55:303][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.11-05.46.55:307][241]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.11-05.46.55:360][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.11-05.46.55:394][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.11-05.46.55:394][241]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.11-05.46.55:395][241]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.11-05.46.55:414][241]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.08.11-05.46.55:452][242]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.08.11-05.47.20:707][700]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2021.08.11-05.47.24:028][700]LogSlate: Window 'Save Content' being destroyed
+[2021.08.11-05.47.24:090][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.08.11-05.47.24:125][700]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/Main_Carlo7FB910AB4531EA8C6257D59DB17C2DDB.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Maps/Main_Carlo.umap'
+[2021.08.11-05.47.24:131][700]LogFileHelpers: Saving map 'Main_Carlo' took 0.078
+[2021.08.11-05.47.24:241][700]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/PlayerCharacter130A4F944C4B5D8FD0489987F131B46B.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Carlo/FirstPersonBP/Blueprints/PlayerCharacter.uasset'
+[2021.08.11-05.47.24:256][700]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.11-05.47.24:256][700]LogContentValidation: Display: Validating Blueprint /Game/Carlo/FirstPersonBP/Blueprints/PlayerCharacter.PlayerCharacter
+[2021.08.11-05.47.24:256][700]LogContentValidation: Display: Validating World /Game/Maps/Main_Carlo.Main_Carlo
+[2021.08.11-05.47.25:848][859]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.11-05.47.25:855][859]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.08.11-05.47.25:857][859]LogPlayLevel: [PlayLevel] Compiling PlayerCharacter before play...
+[2021.08.11-05.47.25:979][859]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.08.11-05.47.25:980][859]LogPlayLevel: PlayLevel: Blueprint regeneration took 125 ms (1 blueprints)
+[2021.08.11-05.47.25:980][859]PIE: New page: PIE session: Main_Carlo (12 Aug 2021, 05:47:25)
+[2021.08.11-05.47.25:980][859]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.08.11-05.47.25:997][859]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016863s)
+[2021.08.11-05.47.25:999][859]LogAIModule: Creating AISystem for world Main_Carlo
+[2021.08.11-05.47.25:999][859]LogPlayLevel: PIE: World Init took: (0.001760s)
+[2021.08.11-05.47.25:999][859]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_Carlo.Main_Carlo to /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo (0.018799s)
+[2021.08.11-05.47.26:039][859]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2021.08.11-05.47.26:040][859]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2021.08.11-05.47.26:040][859]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.11-05.47.26:040][859]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.11-05.47.26:040][859]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.11-05.47.26:040][859]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.11-05.47.26:040][859]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.11-05.47.26:040][859]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.11-05.47.26:040][859]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.11-05.47.26:040][859]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.11-05.47.26:040][859]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.11-05.47.26:040][859]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.11-05.47.26:043][859]LogAudioMixer: Warning: Did not find the channel type flags for audio device 'Headset (Surface Headphones Hands-Free AG Audio)'. Reverting to a default channel ordering.
+[2021.08.11-05.47.26:043][859]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.11-05.47.26:043][859]LogAudioMixer: Display: 1: FrontRight
+[2021.08.11-05.47.26:048][859]LogAudioMixer: Display: Using Audio Device Headset (Surface Headphones Hands-Free AG Audio)
+[2021.08.11-05.47.26:048][859]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.11-05.47.26:048][859]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.11-05.47.26:049][859]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.11-05.47.26:049][859]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.11-05.47.26:049][859]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.11-05.47.26:049][859]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.11-05.47.26:061][859]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.11-05.47.26:061][859]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.11-05.47.26:061][859]LogInit: FAudioDevice initialized.
+[2021.08.11-05.47.26:061][859]LogAudio: Display: Audio Device (ID: 26) registered with world 'Main_Carlo'.
+[2021.08.11-05.47.26:071][859]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.11-05.47.26:074][859]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo up for play (max tick rate 0) at 2021.08.11-17.47.26
+[2021.08.11-05.47.26:074][859]LogWorld: Bringing up level for play took: 0.002595
+[2021.08.11-05.47.26:074][859]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.08.11-05.47.26:077][859]PIE: Server logged in
+[2021.08.11-05.47.26:078][859]PIE: Play in editor total start time 0.225 seconds.
+[2021.08.11-05.47.26:253][870]LogBlueprintUserMessages: [PlayerCharacter_C_0] Recharging...
+[2021.08.11-05.47.41:493][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.11-05.47.41:493][689]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.08.11-05.47.41:493][689]LogWorld: UWorld::CleanupWorld for Main_Carlo, bSessionEnded=true, bCleanupResources=true
+[2021.08.11-05.47.41:494][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.11-05.47.41:504][689]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.11-05.47.41:553][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.11-05.47.41:586][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.11-05.47.41:587][689]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.11-05.47.41:588][689]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.11-05.47.41:605][689]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.08.11-05.47.41:645][690]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.08.11-05.48.05:773][302]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.08.11-05.48.05:816][302]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/Main_Carlo336FD83740B4AE16AB6BA3A2859FDDDE.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Maps/Main_Carlo.umap'
+[2021.08.11-05.48.05:886][302]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/Main_Carlo_BuiltData6B8F0B7948BB0E550E5CCF8B50C32965.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Maps/Main_Carlo_BuiltData.uasset'
+[2021.08.11-05.48.05:902][302]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.11-05.48.05:902][302]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_Carlo_BuiltData.Main_Carlo_BuiltData
+[2021.08.11-05.48.05:902][302]LogContentValidation: Display: Validating World /Game/Maps/Main_Carlo.Main_Carlo
+[2021.08.11-05.48.06:876][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.08.11-05.48.08:152][526]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.11-05.48.08:160][526]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.11-05.48.08:160][526]PIE: New page: PIE session: Main_Carlo (12 Aug 2021, 05:48:08)
+[2021.08.11-05.48.08:195][526]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.08.11-05.48.08:213][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017457s)
+[2021.08.11-05.48.08:214][526]LogAIModule: Creating AISystem for world Main_Carlo
+[2021.08.11-05.48.08:214][526]LogPlayLevel: PIE: World Init took: (0.001198s)
+[2021.08.11-05.48.08:214][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_Carlo.Main_Carlo to /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo (0.018823s)
+[2021.08.11-05.48.08:253][526]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.08.11-05.48.08:254][526]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2021.08.11-05.48.08:254][526]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.11-05.48.08:254][526]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.11-05.48.08:254][526]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.11-05.48.08:254][526]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.11-05.48.08:255][526]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.11-05.48.08:255][526]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.11-05.48.08:255][526]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.11-05.48.08:255][526]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.11-05.48.08:255][526]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.11-05.48.08:255][526]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.11-05.48.08:258][526]LogAudioMixer: Warning: Did not find the channel type flags for audio device 'Headset (Surface Headphones Hands-Free AG Audio)'. Reverting to a default channel ordering.
+[2021.08.11-05.48.08:258][526]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.11-05.48.08:258][526]LogAudioMixer: Display: 1: FrontRight
+[2021.08.11-05.48.08:263][526]LogAudioMixer: Display: Using Audio Device Headset (Surface Headphones Hands-Free AG Audio)
+[2021.08.11-05.48.08:263][526]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.11-05.48.08:263][526]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.11-05.48.08:263][526]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.11-05.48.08:264][526]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.11-05.48.08:264][526]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.11-05.48.08:264][526]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.11-05.48.08:275][526]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.11-05.48.08:275][526]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.11-05.48.08:275][526]LogInit: FAudioDevice initialized.
+[2021.08.11-05.48.08:276][526]LogAudio: Display: Audio Device (ID: 27) registered with world 'Main_Carlo'.
+[2021.08.11-05.48.08:287][526]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.11-05.48.08:290][526]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo up for play (max tick rate 0) at 2021.08.11-17.48.08
+[2021.08.11-05.48.08:290][526]LogWorld: Bringing up level for play took: 0.002502
+[2021.08.11-05.48.08:290][526]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2021.08.11-05.48.08:293][526]PIE: Server logged in
+[2021.08.11-05.48.08:294][526]PIE: Play in editor total start time 0.135 seconds.
+[2021.08.11-05.48.09:111][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.11-05.48.09:111][616]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.08.11-05.48.09:111][616]LogWorld: UWorld::CleanupWorld for Main_Carlo, bSessionEnded=true, bCleanupResources=true
+[2021.08.11-05.48.09:112][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.11-05.48.09:122][616]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.11-05.48.09:173][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.11-05.48.09:206][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.11-05.48.09:207][616]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.11-05.48.09:208][616]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.11-05.48.09:226][616]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.08.11-05.48.09:268][617]LogPlayLevel: Display: Destroying online subsystem :Context_36
