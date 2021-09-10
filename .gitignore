@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.log
+*.ini
+*.ini
+*.ini
+MVP_FPS/Saved/AutoScreenshot.png
+*.bin
