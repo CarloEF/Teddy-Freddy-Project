@@ -78,3 +78,5 @@ DerivedDataCache/*
 *.ini
 MVP_FPS/Saved/AutoScreenshot.png
 *.bin
+*.bin
+*.json
