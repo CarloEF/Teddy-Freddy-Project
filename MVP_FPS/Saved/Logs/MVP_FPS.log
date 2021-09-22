@@ -5093,3 +5093,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.22-01.24.42:834][112]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
 [2021.09.22-01.34.43:364][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
 [2021.09.22-01.34.43:365][902]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Cindy/Maps/Level1' took 0.008
+[2021.09.22-01.42.09:439][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.09.22-01.42.09:492][425]LogSavePackage: Moving '../../../../../../Users/exhlu/Documents/GitHub/Teddy-Freddy-Project/MVP_FPS/Saved/Level10DC3D0DE432B9AA677B9AAB35E68A828.tmp' to '../../../../../../Users/exhlu/Documents/GitHub/Teddy-Freddy-Project/MVP_FPS/Content/Cindy/Maps/Level1.umap'
+[2021.09.22-01.42.09:511][425]AssetCheck: New page: Asset Save: Level1
+[2021.09.22-01.42.09:511][425]LogContentValidation: Display: Validating World /Game/Cindy/Maps/Level1.Level1
