@@ -4811,3 +4811,285 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.22-00.57.36:585][401]LogSavePackage: Moving '../../../../../../Users/exhlu/Documents/GitHub/Teddy-Freddy-Project/MVP_FPS/Saved/Level1DBE8DE8040C3CA47FB59EDBA868421DB.tmp' to '../../../../../../Users/exhlu/Documents/GitHub/Teddy-Freddy-Project/MVP_FPS/Content/Cindy/Maps/Level1.umap'
 [2021.09.22-00.57.36:608][401]AssetCheck: New page: Asset Save: Level1
 [2021.09.22-00.57.36:608][401]LogContentValidation: Display: Validating World /Game/Cindy/Maps/Level1.Level1
+[2021.09.22-00.58.16:776][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.22-00.58.40:400][851]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{37821814-086e-456a-a133-9cb8e23a5dd6}.
+[2021.09.22-00.58.40:400][851]LogAudioMixer: Resetting audio stream to device id 
+[2021.09.22-00.58.40:406][851]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.22-00.58.40:406][851]LogAudioMixer: Display: 1: FrontRight
+[2021.09.22-00.59.03:671][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bookcase)
+[2021.09.22-01.07.36:605][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.09.22-01.07.36:607][138]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Cindy/Maps/Level1' took 0.013
+[2021.09.22-01.07.36:608][138]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HQAbandonedSchool/Textures/ModulesInterior/T_FloorMosaic_01_bc_Mat] ([1] browsable assets)...
+[2021.09.22-01.07.36:624][138]OBJ SavePackage:     Rendered thumbnail for [Material /Game/HQAbandonedSchool/Textures/ModulesInterior/T_FloorMosaic_01_bc_Mat.T_FloorMosaic_01_bc_Mat]
+[2021.09.22-01.07.36:624][138]OBJ SavePackage: Finished generating thumbnails for package [/Game/HQAbandonedSchool/Textures/ModulesInterior/T_FloorMosaic_01_bc_Mat]
+[2021.09.22-01.07.36:632][138]LogSavePackage: Moving '../../../../../../Users/exhlu/Documents/GitHub/Teddy-Freddy-Project/MVP_FPS/Saved/T_FloorMosaic_01_bc_Mat_Auto3CA571C7B42E99826081D65B27680D5B3.tmp' to '../../../../../../Users/exhlu/Documents/GitHub/Teddy-Freddy-Project/MVP_FPS/Saved/Autosaves/Game/HQAbandonedSchool/Textures/ModulesInterior/T_FloorMosaic_01_bc_Mat_Auto3.uasset'
+[2021.09.22-01.07.36:634][138]LogFileHelpers: Auto-saving content packages took 0.026
+[2021.09.22-01.13.20:284][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.09.22-01.13.22:224][507]LogSlate: Window 'Save Content' being destroyed
+[2021.09.22-01.13.22:269][507]LogSavePackage: Moving '../../../../../../Users/exhlu/Documents/GitHub/Teddy-Freddy-Project/MVP_FPS/Saved/T_FloorMosaic_01_bc_Mat835C6EB14E440CA3AC26DB9341D96535.tmp' to '../../../../../../Users/exhlu/Documents/GitHub/Teddy-Freddy-Project/MVP_FPS/Content/HQAbandonedSchool/Textures/ModulesInterior/T_FloorMosaic_01_bc_Mat.uasset'
+[2021.09.22-01.13.22:273][507]LogSavePackage: Moving '../../../../../../Users/exhlu/Documents/GitHub/Teddy-Freddy-Project/MVP_FPS/Saved/T_Wall_02_bc_Mat8964E51C4014A6B00AC6CCAA4001C2A9.tmp' to '../../../../../../Users/exhlu/Documents/GitHub/Teddy-Freddy-Project/MVP_FPS/Content/HQAbandonedSchool/Textures/ModulesInterior/T_Wall_02_bc_Mat.uasset'
+[2021.09.22-01.13.22:278][507]LogSavePackage: Moving '../../../../../../Users/exhlu/Documents/GitHub/Teddy-Freddy-Project/MVP_FPS/Saved/T_Wall_03_MatF0CC02C047070723830C8D9ABE40D3F2.tmp' to '../../../../../../Users/exhlu/Documents/GitHub/Teddy-Freddy-Project/MVP_FPS/Content/HQAbandonedSchool/Textures/ModulesInterior/T_Wall_03_Mat.uasset'
+[2021.09.22-01.13.22:284][507]LogSavePackage: Moving '../../../../../../Users/exhlu/Documents/GitHub/Teddy-Freddy-Project/MVP_FPS/Saved/T_WalledWindow_bc_Mat99F87A3949581687AB69B5834EB7F19D.tmp' to '../../../../../../Users/exhlu/Documents/GitHub/Teddy-Freddy-Project/MVP_FPS/Content/HQAbandonedSchool/Textures/WalledWindow/T_WalledWindow_bc_Mat.uasset'
+[2021.09.22-01.13.22:288][507]LogSavePackage: Moving '../../../../../../Users/exhlu/Documents/GitHub/Teddy-Freddy-Project/MVP_FPS/Saved/T_WalledWindow_h_Mat4940B2C541B179D91A7042BFD13B2719.tmp' to '../../../../../../Users/exhlu/Documents/GitHub/Teddy-Freddy-Project/MVP_FPS/Content/HQAbandonedSchool/Textures/WalledWindow/T_WalledWindow_h_Mat.uasset'
+[2021.09.22-01.13.22:293][507]LogSavePackage: Moving '../../../../../../Users/exhlu/Documents/GitHub/Teddy-Freddy-Project/MVP_FPS/Saved/T_WallTiles_01_bc_MatE087C2B54DDD2931468E02BDFDEE2B7F.tmp' to '../../../../../../Users/exhlu/Documents/GitHub/Teddy-Freddy-Project/MVP_FPS/Content/HQAbandonedSchool/Textures/ModulesInterior/T_WallTiles_01_bc_Mat.uasset'
+[2021.09.22-01.13.22:298][507]LogSavePackage: Moving '../../../../../../Users/exhlu/Documents/GitHub/Teddy-Freddy-Project/MVP_FPS/Saved/T_WallTiles_02_bc_Mat64B55E0C484CD3C5FD5AABAE27BE047B.tmp' to '../../../../../../Users/exhlu/Documents/GitHub/Teddy-Freddy-Project/MVP_FPS/Content/HQAbandonedSchool/Textures/ModulesInterior/T_WallTiles_02_bc_Mat.uasset'
+[2021.09.22-01.13.22:322][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.09.22-01.13.22:359][507]LogSavePackage: Moving '../../../../../../Users/exhlu/Documents/GitHub/Teddy-Freddy-Project/MVP_FPS/Saved/Tutorial_intro_level1E95EDF34ABA1046A8ECDCACBA223B28.tmp' to '../../../../../../Users/exhlu/Documents/GitHub/Teddy-Freddy-Project/MVP_FPS/Content/Cindy/Maps/Tutorial_intro_level.umap'
+[2021.09.22-01.13.22:369][507]LogFileHelpers: Saving map 'Tutorial_intro_level' took 0.069
+[2021.09.22-01.13.22:406][507]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Cindy/Maps/Tutorial_intro_level.Tutorial_intro_level
+[2021.09.22-01.13.22:406][507]Cmd: MAP LOAD FILE="../../../../../../Users/exhlu/Documents/GitHub/Teddy-Freddy-Project/MVP_FPS/Content/Cindy/Maps/Tutorial_intro_level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.22-01.13.22:406][507]LightingResults: New page: Lighting Build
+[2021.09.22-01.13.22:406][507]LoadErrors: New page: Loading map: Tutorial_intro_level.umap
+[2021.09.22-01.13.22:409][507]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-01.13.22:409][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-01.13.22:409][507]MapCheck: New page: Map Check
+[2021.09.22-01.13.22:409][507]LightingResults: New page: Lighting Build
+[2021.09.22-01.13.22:415][507]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.22-01.13.22:419][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.09.22-01.13.22:421][507]LogAudio: Display: Audio Device (ID: 1) registered with world 'Tutorial_intro_level'.
+[2021.09.22-01.13.22:435][507]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.22-01.13.22:435][507]LogAIModule: Creating AISystem for world Tutorial_intro_level
+[2021.09.22-01.13.22:444][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.09.22-01.13.22:450][507]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.22-01.13.22:450][507]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.204ms to complete.
+[2021.09.22-01.13.22:450][507]LogFileHelpers: Loading map 'Tutorial_intro_level' took 0.044
+[2021.09.22-01.13.22:467][507]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.22-01.13.22:468][507]LogContentValidation: Display: Validating World /Game/Cindy/Maps/Tutorial_intro_level.Tutorial_intro_level
+[2021.09.22-01.13.22:468][507]LogContentValidation: Display: Validating Material /Game/HQAbandonedSchool/Textures/ModulesInterior/T_FloorMosaic_01_bc_Mat.T_FloorMosaic_01_bc_Mat
+[2021.09.22-01.13.22:468][507]LogContentValidation: Display: Validating Material /Game/HQAbandonedSchool/Textures/WalledWindow/T_WalledWindow_bc_Mat.T_WalledWindow_bc_Mat
+[2021.09.22-01.13.22:468][507]LogContentValidation: Display: Validating Material /Game/HQAbandonedSchool/Textures/WalledWindow/T_WalledWindow_h_Mat.T_WalledWindow_h_Mat
+[2021.09.22-01.13.22:468][507]LogContentValidation: Display: Validating Material /Game/HQAbandonedSchool/Textures/ModulesInterior/T_Wall_03_Mat.T_Wall_03_Mat
+[2021.09.22-01.13.22:468][507]LogContentValidation: Display: Validating Material /Game/HQAbandonedSchool/Textures/ModulesInterior/T_WallTiles_02_bc_Mat.T_WallTiles_02_bc_Mat
+[2021.09.22-01.13.22:468][507]LogContentValidation: Display: Validating Material /Game/HQAbandonedSchool/Textures/ModulesInterior/T_WallTiles_01_bc_Mat.T_WallTiles_01_bc_Mat
+[2021.09.22-01.13.22:468][507]LogContentValidation: Display: Validating Material /Game/HQAbandonedSchool/Textures/ModulesInterior/T_Wall_02_bc_Mat.T_Wall_02_bc_Mat
+[2021.09.22-01.13.24:770][641]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2021.09.22-01.13.27:325][786]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.22-01.13.27:334][786]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.09.22-01.13.27:334][786]LogPlayLevel: [PlayLevel] Compiling Tutorial_intro_level before play...
+[2021.09.22-01.13.27:335][786]LogBlueprint: Error: [AssetLog] C:\Users\exhlu\Documents\GitHub\Teddy-Freddy-Project\MVP_FPS\Content\Cindy\Maps\Tutorial_intro_level.umap: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.09.22-01.13.27:335][786]LogBlueprint: Error: [AssetLog] C:\Users\exhlu\Documents\GitHub\Teddy-Freddy-Project\MVP_FPS\Content\Cindy\Maps\Tutorial_intro_level.umap: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.09.22-01.13.27:349][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.09.22-01.13.27:350][786]LogPlayLevel: PlayLevel: Blueprint regeneration took 16 ms (1 blueprints)
+[2021.09.22-01.13.27:350][786]BlueprintLog: Warning: Blueprint failed to compile:  Tutorial_intro_level
+[2021.09.22-01.13.27:350][786]LogCustomDialog: Dialog displayed:
+[2021.09.22-01.13.30:339][786]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2021.09.22-01.13.30:346][786]PIE: New page: PIE session: Tutorial_intro_level (23/09/2021, 1:13:30 am)
+[2021.09.22-01.13.30:382][786]LogPlayLevel: Creating play world package: /Game/Cindy/Maps/UEDPIE_0_Tutorial_intro_level
+[2021.09.22-01.13.30:389][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006785s)
+[2021.09.22-01.13.30:389][786]LogAIModule: Creating AISystem for world Tutorial_intro_level
+[2021.09.22-01.13.30:390][786]LogPlayLevel: PIE: World Init took: (0.001059s)
+[2021.09.22-01.13.30:390][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cindy/Maps/Tutorial_intro_level.Tutorial_intro_level to /Game/Cindy/Maps/UEDPIE_0_Tutorial_intro_level.Tutorial_intro_level (0.008036s)
+[2021.09.22-01.13.30:396][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.09.22-01.13.30:396][786]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2021.09.22-01.13.30:396][786]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.22-01.13.30:396][786]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.22-01.13.30:396][786]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.22-01.13.30:396][786]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.22-01.13.30:396][786]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.22-01.13.30:396][786]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.22-01.13.30:396][786]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.22-01.13.30:396][786]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.22-01.13.30:397][786]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.22-01.13.30:397][786]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.22-01.13.30:401][786]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.22-01.13.30:401][786]LogAudioMixer: Display: 1: FrontRight
+[2021.09.22-01.13.30:419][786]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Stinger Core Wireless + 7.1)
+[2021.09.22-01.13.30:420][786]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.22-01.13.30:420][786]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.22-01.13.30:420][786]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.22-01.13.30:421][786]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.22-01.13.30:421][786]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.22-01.13.30:421][786]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.22-01.13.30:422][786]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.22-01.13.30:422][786]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.22-01.13.30:422][786]LogInit: FAudioDevice initialized.
+[2021.09.22-01.13.30:422][786]LogAudio: Display: Audio Device (ID: 60) registered with world 'Tutorial_intro_level'.
+[2021.09.22-01.13.30:443][786]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.09.22-01.13.30:449][786]LogWorld: Bringing World /Game/Cindy/Maps/UEDPIE_0_Tutorial_intro_level.Tutorial_intro_level up for play (max tick rate 60) at 2021.09.22-13.13.30
+[2021.09.22-01.13.30:450][786]LogWorld: Bringing up level for play took: 0.005265
+[2021.09.22-01.13.30:450][786]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2021.09.22-01.13.30:454][786]PIE: Server logged in
+[2021.09.22-01.13.30:455][786]PIE: Play in editor total start time 3.125 seconds.
+[2021.09.22-01.13.48:435][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.22-01.13.48:435][859]LogWorld: BeginTearingDown for /Game/Cindy/Maps/UEDPIE_0_Tutorial_intro_level
+[2021.09.22-01.13.48:435][859]LogWorld: UWorld::CleanupWorld for Tutorial_intro_level, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-01.13.48:436][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-01.13.48:453][859]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.22-01.13.48:474][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-01.13.48:480][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.22-01.13.48:481][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.22-01.13.48:482][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.22-01.13.48:508][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.09.22-01.13.48:559][860]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2021.09.22-01.13.54:525][207]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.22-01.13.54:536][207]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.09.22-01.13.54:536][207]LogPlayLevel: [PlayLevel] Compiling Tutorial_intro_level before play...
+[2021.09.22-01.13.54:538][207]LogBlueprint: Error: [AssetLog] C:\Users\exhlu\Documents\GitHub\Teddy-Freddy-Project\MVP_FPS\Content\Cindy\Maps\Tutorial_intro_level.umap: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.09.22-01.13.54:538][207]LogBlueprint: Error: [AssetLog] C:\Users\exhlu\Documents\GitHub\Teddy-Freddy-Project\MVP_FPS\Content\Cindy\Maps\Tutorial_intro_level.umap: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.09.22-01.13.54:554][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.09.22-01.13.54:555][207]LogPlayLevel: PlayLevel: Blueprint regeneration took 19 ms (1 blueprints)
+[2021.09.22-01.13.54:555][207]BlueprintLog: Warning: Blueprint failed to compile:  Tutorial_intro_level
+[2021.09.22-01.13.54:556][207]LogCustomDialog: Dialog displayed:
+[2021.09.22-01.13.55:403][207]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2021.09.22-01.13.55:409][207]PIE: New page: PIE session: Tutorial_intro_level (23/09/2021, 1:13:55 am)
+[2021.09.22-01.13.55:432][207]LogPlayLevel: Creating play world package: /Game/Cindy/Maps/UEDPIE_0_Tutorial_intro_level
+[2021.09.22-01.13.55:439][207]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006787s)
+[2021.09.22-01.13.55:439][207]LogAIModule: Creating AISystem for world Tutorial_intro_level
+[2021.09.22-01.13.55:440][207]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2021.09.22-01.13.55:440][207]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cindy/Maps/Tutorial_intro_level.Tutorial_intro_level to /Game/Cindy/Maps/UEDPIE_0_Tutorial_intro_level.Tutorial_intro_level (0.007935s)
+[2021.09.22-01.13.55:445][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.09.22-01.13.55:445][207]LogAudio: Display: Creating Audio Device:                 Id: 61, Scope: Unique, Realtime: True
+[2021.09.22-01.13.55:445][207]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.22-01.13.55:445][207]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.22-01.13.55:445][207]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.22-01.13.55:445][207]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.22-01.13.55:445][207]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.22-01.13.55:445][207]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.22-01.13.55:445][207]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.22-01.13.55:445][207]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.22-01.13.55:446][207]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.22-01.13.55:446][207]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.22-01.13.55:449][207]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.22-01.13.55:449][207]LogAudioMixer: Display: 1: FrontRight
+[2021.09.22-01.13.55:467][207]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Stinger Core Wireless + 7.1)
+[2021.09.22-01.13.55:467][207]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.22-01.13.55:467][207]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.22-01.13.55:467][207]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.22-01.13.55:467][207]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.22-01.13.55:467][207]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.22-01.13.55:468][207]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.22-01.13.55:492][207]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.22-01.13.55:492][207]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.22-01.13.55:492][207]LogInit: FAudioDevice initialized.
+[2021.09.22-01.13.55:492][207]LogAudio: Display: Audio Device (ID: 61) registered with world 'Tutorial_intro_level'.
+[2021.09.22-01.13.55:500][207]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.09.22-01.13.55:506][207]LogWorld: Bringing World /Game/Cindy/Maps/UEDPIE_0_Tutorial_intro_level.Tutorial_intro_level up for play (max tick rate 60) at 2021.09.22-13.13.55
+[2021.09.22-01.13.55:506][207]LogWorld: Bringing up level for play took: 0.005486
+[2021.09.22-01.13.55:507][207]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2021.09.22-01.13.55:510][207]PIE: Server logged in
+[2021.09.22-01.13.55:511][207]PIE: Play in editor total start time 0.98 seconds.
+[2021.09.22-01.14.23:976][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.22-01.14.23:976][907]LogWorld: BeginTearingDown for /Game/Cindy/Maps/UEDPIE_0_Tutorial_intro_level
+[2021.09.22-01.14.23:976][907]LogWorld: UWorld::CleanupWorld for Tutorial_intro_level, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-01.14.23:978][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-01.14.23:990][907]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.22-01.14.24:009][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-01.14.24:015][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.22-01.14.24:016][907]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.22-01.14.24:017][907]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.22-01.14.24:041][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.09.22-01.14.24:087][908]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2021.09.22-01.14.26:446][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.09.22-01.14.31:240][ 41]LogSlate: Window 'Save Content' being destroyed
+[2021.09.22-01.14.31:279][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.09.22-01.14.31:319][ 41]LogSavePackage: Moving '../../../../../../Users/exhlu/Documents/GitHub/Teddy-Freddy-Project/MVP_FPS/Saved/Tutorial_intro_level2BADC92D46A57416C8943D83F6079943.tmp' to '../../../../../../Users/exhlu/Documents/GitHub/Teddy-Freddy-Project/MVP_FPS/Content/Cindy/Maps/Tutorial_intro_level.umap'
+[2021.09.22-01.14.31:329][ 41]LogFileHelpers: Saving map 'Tutorial_intro_level' took 0.056
+[2021.09.22-01.14.31:356][ 41]LogBlueprint: Error: [AssetLog] C:\Users\exhlu\Documents\GitHub\Teddy-Freddy-Project\MVP_FPS\Content\Cindy\Maps\Level1.umap: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.09.22-01.14.31:356][ 41]LogBlueprint: Error: [AssetLog] C:\Users\exhlu\Documents\GitHub\Teddy-Freddy-Project\MVP_FPS\Content\Cindy\Maps\Level1.umap: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.09.22-01.14.31:392][ 41]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Cindy/Maps/Level1.Level1
+[2021.09.22-01.14.31:392][ 41]Cmd: MAP LOAD FILE="../../../../../../Users/exhlu/Documents/GitHub/Teddy-Freddy-Project/MVP_FPS/Content/Cindy/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.22-01.14.31:392][ 41]LightingResults: New page: Lighting Build
+[2021.09.22-01.14.31:392][ 41]LoadErrors: New page: Loading map: Level1.umap
+[2021.09.22-01.14.31:396][ 41]LogWorld: UWorld::CleanupWorld for Tutorial_intro_level, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-01.14.31:396][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-01.14.31:396][ 41]MapCheck: New page: Map Check
+[2021.09.22-01.14.31:396][ 41]LightingResults: New page: Lighting Build
+[2021.09.22-01.14.31:402][ 41]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.22-01.14.31:407][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.09.22-01.14.31:408][ 41]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2021.09.22-01.14.31:417][ 41]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.22-01.14.31:417][ 41]LogAIModule: Creating AISystem for world Level1
+[2021.09.22-01.14.31:428][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.09.22-01.14.31:435][ 41]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.22-01.14.31:435][ 41]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.173ms to complete.
+[2021.09.22-01.14.31:435][ 41]LogFileHelpers: Loading map 'Level1' took 0.043
+[2021.09.22-01.14.31:453][ 41]AssetCheck: New page: Asset Save: Tutorial_intro_level
+[2021.09.22-01.14.31:453][ 41]LogContentValidation: Display: Validating World /Game/Cindy/Maps/Tutorial_intro_level.Tutorial_intro_level
+[2021.09.22-01.14.31:457][ 41]LogBlueprint: Error: [AssetLog] C:\Users\exhlu\Documents\GitHub\Teddy-Freddy-Project\MVP_FPS\Content\Cindy\Maps\Tutorial_intro_level.umap: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.09.22-01.14.31:458][ 41]LogBlueprint: Error: [AssetLog] C:\Users\exhlu\Documents\GitHub\Teddy-Freddy-Project\MVP_FPS\Content\Cindy\Maps\Tutorial_intro_level.umap: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.09.22-01.14.34:532][214]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.22-01.14.34:540][214]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.09.22-01.14.34:544][214]LogPlayLevel: [PlayLevel] Compiling Level1 before play...
+[2021.09.22-01.14.34:545][214]LogBlueprint: Error: [AssetLog] C:\Users\exhlu\Documents\GitHub\Teddy-Freddy-Project\MVP_FPS\Content\Cindy\Maps\Level1.umap: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.09.22-01.14.34:545][214]LogBlueprint: Error: [AssetLog] C:\Users\exhlu\Documents\GitHub\Teddy-Freddy-Project\MVP_FPS\Content\Cindy\Maps\Level1.umap: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.09.22-01.14.34:554][214]LogPlayLevel: [PlayLevel] Compiling Tutorial_intro_level before play...
+[2021.09.22-01.14.34:555][214]LogBlueprint: Error: [AssetLog] C:\Users\exhlu\Documents\GitHub\Teddy-Freddy-Project\MVP_FPS\Content\Cindy\Maps\Tutorial_intro_level.umap: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.09.22-01.14.34:555][214]LogBlueprint: Error: [AssetLog] C:\Users\exhlu\Documents\GitHub\Teddy-Freddy-Project\MVP_FPS\Content\Cindy\Maps\Tutorial_intro_level.umap: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.09.22-01.14.34:569][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.09.22-01.14.34:571][214]LogPlayLevel: PlayLevel: Blueprint regeneration took 30 ms (2 blueprints)
+[2021.09.22-01.14.34:571][214]BlueprintLog: Warning: Blueprint failed to compile:  Level1
+[2021.09.22-01.14.34:571][214]BlueprintLog: Warning: Blueprint failed to compile:  Tutorial_intro_level
+[2021.09.22-01.14.34:571][214]LogCustomDialog: Dialog displayed:
+[2021.09.22-01.14.35:815][214]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2021.09.22-01.14.36:990][278]LogSlate: Window 'Message Log' being destroyed
+[2021.09.22-01.14.36:996][278]LogSlate: Window 'Message Log' being destroyed
+[2021.09.22-01.14.43:581][660]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.22-01.14.43:589][660]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.09.22-01.14.43:590][660]LogPlayLevel: [PlayLevel] Compiling Level1 before play...
+[2021.09.22-01.14.43:591][660]LogBlueprint: Error: [AssetLog] C:\Users\exhlu\Documents\GitHub\Teddy-Freddy-Project\MVP_FPS\Content\Cindy\Maps\Level1.umap: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.09.22-01.14.43:591][660]LogBlueprint: Error: [AssetLog] C:\Users\exhlu\Documents\GitHub\Teddy-Freddy-Project\MVP_FPS\Content\Cindy\Maps\Level1.umap: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.09.22-01.14.43:599][660]LogPlayLevel: [PlayLevel] Compiling Tutorial_intro_level before play...
+[2021.09.22-01.14.43:600][660]LogBlueprint: Error: [AssetLog] C:\Users\exhlu\Documents\GitHub\Teddy-Freddy-Project\MVP_FPS\Content\Cindy\Maps\Tutorial_intro_level.umap: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.09.22-01.14.43:600][660]LogBlueprint: Error: [AssetLog] C:\Users\exhlu\Documents\GitHub\Teddy-Freddy-Project\MVP_FPS\Content\Cindy\Maps\Tutorial_intro_level.umap: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.09.22-01.14.43:613][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.09.22-01.14.43:614][660]LogPlayLevel: PlayLevel: Blueprint regeneration took 25 ms (2 blueprints)
+[2021.09.22-01.14.43:615][660]BlueprintLog: Warning: Blueprint failed to compile:  Level1
+[2021.09.22-01.14.43:615][660]BlueprintLog: Warning: Blueprint failed to compile:  Tutorial_intro_level
+[2021.09.22-01.14.43:615][660]LogCustomDialog: Dialog displayed:
+[2021.09.22-01.14.44:391][660]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2021.09.22-01.14.44:407][660]PIE: New page: PIE session: Level1 (23/09/2021, 1:14:44 am)
+[2021.09.22-01.14.44:431][660]LogPlayLevel: Creating play world package: /Game/Cindy/Maps/UEDPIE_0_Level1
+[2021.09.22-01.14.44:447][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015973s)
+[2021.09.22-01.14.44:448][660]LogAIModule: Creating AISystem for world Level1
+[2021.09.22-01.14.44:449][660]LogPlayLevel: PIE: World Init took: (0.001380s)
+[2021.09.22-01.14.44:449][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cindy/Maps/Level1.Level1 to /Game/Cindy/Maps/UEDPIE_0_Level1.Level1 (0.017578s)
+[2021.09.22-01.14.44:458][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.09.22-01.14.44:458][660]LogAudio: Display: Creating Audio Device:                 Id: 62, Scope: Unique, Realtime: True
+[2021.09.22-01.14.44:458][660]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.22-01.14.44:458][660]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.22-01.14.44:458][660]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.22-01.14.44:459][660]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.22-01.14.44:459][660]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.22-01.14.44:459][660]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.22-01.14.44:459][660]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.22-01.14.44:459][660]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.22-01.14.44:459][660]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.22-01.14.44:459][660]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.22-01.14.44:466][660]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.22-01.14.44:466][660]LogAudioMixer: Display: 1: FrontRight
+[2021.09.22-01.14.44:485][660]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Stinger Core Wireless + 7.1)
+[2021.09.22-01.14.44:486][660]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.22-01.14.44:486][660]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.22-01.14.44:486][660]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.22-01.14.44:486][660]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.22-01.14.44:486][660]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.22-01.14.44:486][660]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.22-01.14.44:506][660]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.22-01.14.44:506][660]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.22-01.14.44:506][660]LogInit: FAudioDevice initialized.
+[2021.09.22-01.14.44:506][660]LogAudio: Display: Audio Device (ID: 62) registered with world 'Level1'.
+[2021.09.22-01.14.44:513][660]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.09.22-01.14.44:518][660]LogWorld: Bringing World /Game/Cindy/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.09.22-13.14.44
+[2021.09.22-01.14.44:518][660]LogWorld: Bringing up level for play took: 0.003378
+[2021.09.22-01.14.44:518][660]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2021.09.22-01.14.44:521][660]PIE: Server logged in
+[2021.09.22-01.14.44:522][660]PIE: Play in editor total start time 0.936 seconds.
+[2021.09.22-01.14.59:746][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.22-01.14.59:746][569]LogWorld: BeginTearingDown for /Game/Cindy/Maps/UEDPIE_0_Level1
+[2021.09.22-01.14.59:747][569]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-01.14.59:748][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-01.14.59:762][569]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.22-01.14.59:765][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-01.14.59:770][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.22-01.14.59:771][569]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.22-01.14.59:773][569]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.22-01.14.59:800][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.09.22-01.14.59:830][570]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2021.09.22-01.16.14:234][236]LogEditorViewport: Clicking on Actor (LMB): BP_LockerA_openable_C (BP_LockerA_openable3)
+[2021.09.22-01.16.14:635][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.22-01.24.42:782][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.09.22-01.24.42:830][112]LogSavePackage: Moving '../../../../../../Users/exhlu/Documents/GitHub/Teddy-Freddy-Project/MVP_FPS/Saved/Level1_Auto40892E3184BFB96ACEE283BBF5BF30FF5.tmp' to '../../../../../../Users/exhlu/Documents/GitHub/Teddy-Freddy-Project/MVP_FPS/Saved/Autosaves/Game/Cindy/Maps/Level1_Auto4.umap'
+[2021.09.22-01.24.42:833][112]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Cindy/Maps/Level1' took 0.058
+[2021.09.22-01.24.42:834][112]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
+[2021.09.22-01.34.43:364][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.09.22-01.34.43:365][902]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Cindy/Maps/Level1' took 0.008
