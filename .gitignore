@@ -80,3 +80,10 @@ MVP_FPS/Saved/AutoScreenshot.png
 *.bin
 *.bin
 *.json
+MVP_FPS/Saved/Logs/MVP_FPS.log
+MVP_FPS/Saved/Config/Windows/Engine.ini
+MVP_FPS/Intermediate/CachedAssetRegistry.bin
+MVP_FPS/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+*.ini
+*.bin
+MVP_FPS/Saved/AutoScreenshot.png
