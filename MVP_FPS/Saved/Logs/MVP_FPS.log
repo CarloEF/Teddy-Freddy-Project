@@ -4224,3 +4224,153 @@ Are you sure?
 [2021.10.08-03.35.32:564][ 26]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/Door_Opening_Sound_Effect0746B30246C4F739C7A20CB3A6327879.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Carlo/Interactables/Door_Opening_Sound_Effect.uasset'
 [2021.10.08-03.35.32:584][ 26]AssetCheck: New page: Asset Save: Door_Opening_Sound_Effect
 [2021.10.08-03.35.32:584][ 26]LogContentValidation: Display: Validating ObjectRedirector /Game/Carlo/Interactables/Door_Opening_Sound_Effect.Door_Opening_Sound_Effect
+[2021.10.08-03.39.02:861][585]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Carlo\Downloads\Bear Trap Sounds.wav)
+[2021.10.08-03.39.04:313][601]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Bear_Trap_Sounds...
+[2021.10.08-03.39.04:313][601]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Carlo/BearTraps/Bear_Trap_Sounds.Bear_Trap_Sounds will be modified from 40 to 40.
+[2021.10.08-03.39.04:342][601]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 345516 while cooking SoundWave /Game/Carlo/BearTraps/Bear_Trap_Sounds.Bear_Trap_Sounds.
+[2021.10.08-03.39.14:162][550]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Carlo/FirstPersonBP/Blueprints/PlayerCharacter2.PlayerCharacter2
+[2021.10.08-03.39.27:624][136]BlueprintLog: New page: Compile PlayerCharacter2
+[2021.10.08-03.39.27:773][136]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2021.10.08-03.39.28:479][146]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/PlayerCharacter20CBD13AB44538356C2D6BB96E6510A0E.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Carlo/FirstPersonBP/Blueprints/PlayerCharacter2.uasset'
+[2021.10.08-03.39.28:498][146]AssetCheck: New page: Asset Save: PlayerCharacter2
+[2021.10.08-03.39.28:498][146]LogContentValidation: Display: Validating Blueprint /Game/Carlo/FirstPersonBP/Blueprints/PlayerCharacter2.PlayerCharacter2
+[2021.10.08-03.39.29:258][187]LogSlate: Window 'PlayerCharacter2' being destroyed
+[2021.10.08-03.39.30:344][281]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.08-03.39.30:354][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.08-03.39.30:354][281]PIE: New page: PIE session: Main_Carlo (9/10/2021, 5:39:30 am)
+[2021.10.08-03.39.30:354][281]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.10.08-03.39.30:368][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014297s)
+[2021.10.08-03.39.30:369][281]LogAIModule: Creating AISystem for world Main_Carlo
+[2021.10.08-03.39.30:370][281]LogPlayLevel: PIE: World Init took: (0.001093s)
+[2021.10.08-03.39.30:370][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_Carlo.Main_Carlo to /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo (0.015513s)
+[2021.10.08-03.39.30:393][281]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.10.08-03.39.30:397][281]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.10.08-03.39.30:397][281]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.08-03.39.30:397][281]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.08-03.39.30:397][281]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.08-03.39.30:397][281]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.08-03.39.30:397][281]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.08-03.39.30:397][281]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.08-03.39.30:397][281]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.08-03.39.30:397][281]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.08-03.39.30:398][281]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.08-03.39.30:398][281]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.08-03.39.30:401][281]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.08-03.39.30:401][281]LogAudioMixer: Display: 1: FrontRight
+[2021.10.08-03.39.30:409][281]LogAudioMixer: Display: Using Audio Device Headphones (Surface Headphones Stereo)
+[2021.10.08-03.39.30:409][281]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.08-03.39.30:409][281]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.08-03.39.30:409][281]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.08-03.39.30:410][281]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.08-03.39.30:410][281]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.08-03.39.30:410][281]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.08-03.39.30:422][281]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.08-03.39.30:422][281]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.08-03.39.30:422][281]LogInit: FAudioDevice initialized.
+[2021.10.08-03.39.30:422][281]LogAudio: Display: Audio Device (ID: 17) registered with world 'Main_Carlo'.
+[2021.10.08-03.39.30:434][281]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.08-03.39.30:438][281]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo up for play (max tick rate 0) at 2021.10.08-16.39.30
+[2021.10.08-03.39.30:439][281]LogWorld: Bringing up level for play took: 0.004380
+[2021.10.08-03.39.30:439][281]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2021.10.08-03.39.30:444][281]LogBlueprintUserMessages: [BP_KeyPadDoor_2] 226
+[2021.10.08-03.39.30:445][281]PIE: Server logged in
+[2021.10.08-03.39.30:446][281]PIE: Play in editor total start time 0.094 seconds.
+[2021.10.08-03.39.31:663][424]LogBlueprintUserMessages: [BearTrapBP2_2] Trap Triggered!
+[2021.10.08-03.39.33:389][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.08-03.39.33:389][626]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.10.08-03.39.33:390][626]LogWorld: UWorld::CleanupWorld for Main_Carlo, bSessionEnded=true, bCleanupResources=true
+[2021.10.08-03.39.33:390][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.08-03.39.33:398][626]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.08-03.39.33:411][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.08-03.39.33:429][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.08-03.39.33:430][626]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.08-03.39.33:431][626]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.08-03.39.33:448][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.10.08-03.39.33:481][627]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.10.08-03.39.52:579][771]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Carlo/BearTraps/BearTrapBP.BearTrapBP
+[2021.10.08-03.40.11:405][462]BlueprintLog: New page: Compile PlayerCharacter2
+[2021.10.08-03.40.11:510][462]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.10.08-03.40.12:335][488]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/PlayerCharacter2D878C6B64F19CA7AE9FA359FB5B69868.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Carlo/FirstPersonBP/Blueprints/PlayerCharacter2.uasset'
+[2021.10.08-03.40.12:350][488]AssetCheck: New page: Asset Save: PlayerCharacter2
+[2021.10.08-03.40.12:350][488]LogContentValidation: Display: Validating Blueprint /Game/Carlo/FirstPersonBP/Blueprints/PlayerCharacter2.PlayerCharacter2
+[2021.10.08-03.40.32:242][312]BlueprintLog: New page: Compile BearTrapBP
+[2021.10.08-03.40.32:313][312]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.10.08-03.40.32:726][336]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/BearTrapBP717963B14A8F5C60DEA9C6B8E1D6C36A.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Carlo/BearTraps/BearTrapBP.uasset'
+[2021.10.08-03.40.32:740][336]AssetCheck: New page: Asset Save: BearTrapBP
+[2021.10.08-03.40.32:740][336]LogContentValidation: Display: Validating Blueprint /Game/Carlo/BearTraps/BearTrapBP.BearTrapBP
+[2021.10.08-03.40.33:903][466]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.10.08-03.40.33:951][466]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/Main_Carlo955D969A457E9629A3B0BA851DEA7BA4.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Maps/Main_Carlo.umap'
+[2021.10.08-03.40.34:032][466]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/Main_Carlo_BuiltData71470356450B778585819886F049F156.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Maps/Main_Carlo_BuiltData.uasset'
+[2021.10.08-03.40.34:049][466]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.08-03.40.34:049][466]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_Carlo_BuiltData.Main_Carlo_BuiltData
+[2021.10.08-03.40.34:049][466]LogContentValidation: Display: Validating World /Game/Maps/Main_Carlo.Main_Carlo
+[2021.10.08-03.40.34:636][535]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.08-03.40.34:647][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.08-03.40.34:647][535]PIE: New page: PIE session: Main_Carlo (9/10/2021, 5:40:34 am)
+[2021.10.08-03.40.34:688][535]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.10.08-03.40.34:711][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023670s)
+[2021.10.08-03.40.34:713][535]LogAIModule: Creating AISystem for world Main_Carlo
+[2021.10.08-03.40.34:713][535]LogPlayLevel: PIE: World Init took: (0.001774s)
+[2021.10.08-03.40.34:713][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_Carlo.Main_Carlo to /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo (0.025641s)
+[2021.10.08-03.40.34:740][535]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.10.08-03.40.34:742][535]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.10.08-03.40.34:742][535]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.08-03.40.34:742][535]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.08-03.40.34:742][535]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.08-03.40.34:742][535]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.08-03.40.34:742][535]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.08-03.40.34:742][535]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.08-03.40.34:742][535]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.08-03.40.34:742][535]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.08-03.40.34:742][535]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.08-03.40.34:742][535]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.08-03.40.34:745][535]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.08-03.40.34:745][535]LogAudioMixer: Display: 1: FrontRight
+[2021.10.08-03.40.34:753][535]LogAudioMixer: Display: Using Audio Device Headphones (Surface Headphones Stereo)
+[2021.10.08-03.40.34:754][535]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.08-03.40.34:754][535]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.08-03.40.34:754][535]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.08-03.40.34:754][535]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.08-03.40.34:754][535]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.08-03.40.34:754][535]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.08-03.40.34:766][535]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.08-03.40.34:766][535]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.08-03.40.34:766][535]LogInit: FAudioDevice initialized.
+[2021.10.08-03.40.34:766][535]LogAudio: Display: Audio Device (ID: 18) registered with world 'Main_Carlo'.
+[2021.10.08-03.40.34:771][535]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.08-03.40.34:775][535]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_Carlo.Main_Carlo up for play (max tick rate 0) at 2021.10.08-16.40.34
+[2021.10.08-03.40.34:775][535]LogWorld: Bringing up level for play took: 0.003398
+[2021.10.08-03.40.34:776][535]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2021.10.08-03.40.34:780][535]LogBlueprintUserMessages: [BP_KeyPadDoor_2] 466
+[2021.10.08-03.40.34:781][535]PIE: Server logged in
+[2021.10.08-03.40.34:782][535]PIE: Play in editor total start time 0.138 seconds.
+[2021.10.08-03.40.36:626][747]LogBlueprintUserMessages: [BearTrapBP2_2] Trap Triggered!
+[2021.10.08-03.40.44:929][741]LogBlueprintUserMessages: [BearTrapBP2_2] Trap Triggered!
+[2021.10.08-03.40.50:569][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.08-03.40.50:569][413]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_Carlo
+[2021.10.08-03.40.50:570][413]LogWorld: UWorld::CleanupWorld for Main_Carlo, bSessionEnded=true, bCleanupResources=true
+[2021.10.08-03.40.50:570][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.08-03.40.50:578][413]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.08-03.40.50:591][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.08-03.40.50:610][413]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.08-03.40.50:610][413]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.08-03.40.50:611][413]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.08-03.40.50:625][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.08-03.40.50:630][413]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.10.08-03.40.50:670][414]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2021.10.08-03.40.50:718][418]Cmd: SELECT NONE
+[2021.10.08-03.40.58:962][ 48]LogContentBrowser: Attempting asset rename: Bear_Trap_Sounds -> BearTrapSound2
+[2021.10.08-03.40.59:001][ 48]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/BearTrapSound2533E962C46E58B5B34E4F2B653689D65.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Carlo/BearTraps/BearTrapSound2.uasset'
+[2021.10.08-03.40.59:086][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.10.08-03.40.59:119][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.10.08-03.40.59:142][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.10.08-03.40.59:193][ 48]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/BearTrapBP05D4259F4DD39DEB4587BDB1A64B3752.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Carlo/BearTraps/BearTrapBP.uasset'
+[2021.10.08-03.40.59:258][ 48]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.08-03.40.59:258][ 48]LogContentValidation: Display: Validating Blueprint /Game/Carlo/BearTraps/BearTrapBP.BearTrapBP
+[2021.10.08-03.40.59:258][ 48]LogContentValidation: Display: Validating SoundWave /Game/Carlo/BearTraps/BearTrapSound2.BearTrapSound2
+[2021.10.08-03.41.05:734][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.10.08-03.41.05:775][654]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/Main_Carlo092C6DD743CBFACDCAFF1FA2CAC35C28.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Maps/Main_Carlo.umap'
+[2021.10.08-03.41.05:857][654]LogSavePackage: Moving '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Saved/Main_Carlo_BuiltDataCFCB9D05452D5CE6BF9B6A9DEEDA03DA.tmp' to '../../../../../../Users/Carlo/Documents/Unreal Projects/Teddy-Freddy-Project/MVP_FPS/Content/Maps/Main_Carlo_BuiltData.uasset'
+[2021.10.08-03.41.05:882][654]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.08-03.41.05:883][654]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_Carlo_BuiltData.Main_Carlo_BuiltData
+[2021.10.08-03.41.05:883][654]LogContentValidation: Display: Validating World /Game/Maps/Main_Carlo.Main_Carlo
